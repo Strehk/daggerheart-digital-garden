@@ -1,0 +1,12 @@
+services:
+  digital-garden:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: digital-garden:latest
+    container_name: digital-garden
+    restart: unless-stopped
+    # Bind to localhost only — expose publicly via Caddy/nginx reverse proxy
+    # with auth in front. Change to "8080:80" if you want LAN access.
+    ports:
+      - "127.0.0.1:8080:80"
