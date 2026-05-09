@@ -44,12 +44,20 @@ RUN npm run build
 FROM nginx:alpine AS runtime
 
 COPY docker/nginx.conf /etc/nginx/conf.d/default.conf
+
+# Clear the base image's default html (welcome page, 50x.html) so it
+# doesn't leak through when the build output lacks a matching file.
+RUN rm -rf /usr/share/nginx/html/*
+
 COPY --from=builder /app/dist /usr/share/nginx/html
 
 EXPOSE 80
 
-# Tiny healthcheck against the index page
-HEALTHCHECK --interval=30s --timeout=3s --retries=3 \
-    CMD wget -q -O /dev/null http://localhost/ || exit 1
+# curl (without -f) exits 0 on any HTTP response, so the healthcheck
+# passes even before a home note is configured (root would 404/403).
+# We only want to verify nginx is alive and serving HTTP, not that any
+# specific page exists yet.
+HEALTHCHECK --interval=30s --timeout=3s --start-period=10s --retries=3 \
+    CMD curl -sS -o /dev/null --connect-timeout 2 http://127.0.0.1/ || exit 1
 
 CMD ["nginx", "-g", "daemon off;"]
