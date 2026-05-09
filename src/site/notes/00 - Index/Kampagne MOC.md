@@ -38,9 +38,9 @@
 
 ## Offene Plotfäden
 
+- [[06 - Plotfäden/Das Verschwinden von Lady Elara Vance\|Das Verschwinden von Lady Elara Vance]]
 - [[06 - Plotfäden/Die Sommer-Teeblätter\|Die Sommer-Teeblätter]]
 - [[06 - Plotfäden/Unregelmäßigkeiten in Fungaard\|Unregelmäßigkeiten in Fungaard]]
-- [[06 - Plotfäden/Das Verschwinden von Lady Elara Vance\|Das Verschwinden von Lady Elara Vance]]
 
 { .block-language-dataview}
 
