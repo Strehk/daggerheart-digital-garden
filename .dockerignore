@@ -1,0 +1,10 @@
+.git
+.github
+node_modules
+dist
+.cache
+.netlify
+.vercel
+**/.DS_Store
+README.md
+LICENSE
