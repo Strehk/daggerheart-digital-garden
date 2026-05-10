@@ -22,7 +22,7 @@
 - **Anti-Anwendung:** nicht in Kalthavn unter Streichern, nicht in den Fungaard-Höhlen, nicht bei Tuchmachern.
 
 ## Spätere Level: Ideen für neue Experiences
-- *Botanik der alten Welt* — sobald die Reise zu den [[06 - Plotfäden/Die Sommer-Teeblätter\|Sommer-Teeblättern]] tatsächlich Wissen produziert.
+- *Botanik der alten Welt* — sobald die Reise zu den [[01 - Mein Charakter/Plotfäden/Die Sommer-Teeblätter\|Sommer-Teeblättern]] tatsächlich Wissen produziert.
 - *Stille Beobachtung* — wenn Percy lernt, dass auch Schweigen ein Werkzeug ist.
 - *Niras Wärme* — wenn er seine Berufung **bewusst** annimmt.
 

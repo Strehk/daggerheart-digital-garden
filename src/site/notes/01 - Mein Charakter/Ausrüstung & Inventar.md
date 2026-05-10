@@ -10,8 +10,7 @@
 - **Secondary:** [[07 - Items/Silbernes Teetablett\|Silbernes Teetablett]] — *„Ein Werkzeug der Gastfreundschaft, das gelegentlich zweckentfremdet wird."*
 
 ## Rüstung
-- **Frack** aus Estmark-Seide. Ergänzt durch Weste, Hemd, Krawatte/Schal — alles Schwarz und Weiß.
-- *(eigentlicher Rüstungsschutz nur wenn Daggerheart-Mechanik eine Rüstung erlaubt — Frack-Reflavor möglich)*
+- **Frack** aus [[04 - Welt/Orte/Siedlungen/Estmark\|Estmark]]-Seide. Ergänzt durch Weste, Hemd, Krawatte/Schal — alles Schwarz und Weiß.
 
 ## Accessoires (mechanisch unbedeutend, RP-relevant)
 - **Monokel** mit feiner Goldkette — pure Affektation.
@@ -26,7 +25,6 @@
 
 ## Magische / besondere Gegenstände
 - [[07 - Items/Tee-Vorrat aus Sternenfall\|Tee-Vorrat aus Sternenfall]] — bester Bestand, schwindet.
-- *(weitere möglich, sobald Daggerheart-Startausrüstung gewählt)*
 
 ## Sonstiges
 - **Gefälschte Eingaben** als Originale archiviert — falls die [[04 - Welt/Fraktionen/Eisige Faust\|Eisige Faust]] später Beweise verlangt, hat Percy etwas vorzuzeigen, das echt aussieht.
@@ -34,4 +32,3 @@
 
 ## Geld / Handout
 - **Gut versorgt** — Percy hat als Majordomus von Lady Elara eine ordentliche Reisekasse abgehoben, ehe er aufbrach. Reicht für Pferde, gute Gasthäuser und kleinere Bestechungen.
-- *(genauer Betrag nach Daggerheart-Regeln zu setzen)*

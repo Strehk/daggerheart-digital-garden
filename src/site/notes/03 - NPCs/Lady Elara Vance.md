@@ -8,7 +8,7 @@
 > Hochrangige **Logistik-Ministerin** und **Cousine zweiten Grades** von [[03 - NPCs/Lillia Vess Rith'kar\|Lillia Vess Rith'kar]]. Percys Herrin. **Verschwunden.**
 
 ## Status
-- **Aktueller Stand:** Vor wenigen Wochen inkognito mit kleiner Leibwache nach [[04 - Welt/Orte/Siedlungen/Fungaard\|Fungaard]] aufgebrochen, um [[06 - Plotfäden/Unregelmäßigkeiten in Fungaard\|Unregelmäßigkeiten in Fungaard]] in den Lichtpilz-Lieferungen zu untersuchen. **Nie zurückgekehrt.**
+- **Aktueller Stand:** Vor wenigen Wochen inkognito mit kleiner Leibwache nach [[04 - Welt/Orte/Siedlungen/Fungaard\|Fungaard]] aufgebrochen, um [[01 - Mein Charakter/Plotfäden/Unregelmäßigkeiten in Fungaard\|Unregelmäßigkeiten in Fungaard]] in den Lichtpilz-Lieferungen zu untersuchen. **Nie zurückgekehrt.**
 - **Offizielle Version (von Percy gefälscht):** Auf einer „spirituellen Schweigeklausur zu Ehren [[04 - Welt/Pantheon & Religion/Nira\|Nira]]s".
 - **Wirklicher Stand:** Tot? Gefangen? Untergetaucht? Verraten? — niemand weiß es.
 

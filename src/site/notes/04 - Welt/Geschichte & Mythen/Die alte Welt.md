@@ -34,4 +34,4 @@
 - Der ewige Winter ist **keine Strafe und kein Fluch**, sondern eine **Bewahrungsmaßnahme**.
 - Wie kostbare Speisen auf Eis gelegt werden, wurde Noryndal eingefroren, um es vor *„der ultimativen Fäulnis"* zu schützen.
 - Die [[04 - Welt/Fraktionen/Familie Rith'kar\|Familie Rith'kar]] hat das Eis nicht erschaffen — sie sind die *„strengen Haushälter"*, die sicherstellen, dass nichts auftaut, bevor das Tal nicht wieder zivilisiert ist.
-- **Implikation:** es gibt **etwas zu bewahren**. Stärkt die Hypothese hinter den [[06 - Plotfäden/Die Sommer-Teeblätter\|Sommer-Teeblättern]].
+- **Implikation:** es gibt **etwas zu bewahren**. Stärkt die Hypothese hinter den [[01 - Mein Charakter/Plotfäden/Die Sommer-Teeblätter\|Sommer-Teeblättern]].

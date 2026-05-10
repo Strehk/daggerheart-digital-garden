@@ -5,10 +5,7 @@
 
 # Plotfäden-Übersicht
 
-| Faden                                                                                              | Status | Priorität |
-| -------------------------------------------------------------------------------------------------- | ------ | --------- |
-| [[06 - Plotfäden/Das Verschwinden von Lady Elara Vance\|Das Verschwinden von Lady Elara Vance]] | open   | 1         |
-| [[06 - Plotfäden/Unregelmäßigkeiten in Fungaard\|Unregelmäßigkeiten in Fungaard]]               | open   | 2         |
-| [[06 - Plotfäden/Die Sommer-Teeblätter\|Die Sommer-Teeblätter]]                                 | open   | 4         |
+| Faden | Status | Priorität |
+| ----- | ------ | --------- |
 
 { .block-language-dataview}

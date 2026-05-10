@@ -5,19 +5,12 @@
 
 # Ziele & Motivationen
 
+> Conflict und Want stehen kanonisch in [[01 - Mein Charakter/Lord Percival Ashwood#Die drei Säulen\|den drei Säulen]] auf der Hauptseite. Hier: was Percy *jetzt* tut, der Need-Bogen, und was ihn antreibt bzw. einschränkt.
+
 ## Kurzfristig
 - **Eskorte finden**, um Noryndal sicher zu bereisen.
 - Diskret nach Spuren von **[[03 - NPCs/Lady Elara Vance\|Lady Elara Vance]]** suchen, ohne die Fassade aufzugeben.
 - Den **Tee-Vorrat** strecken, ohne die Qualität zu kompromittieren.
-
-## Mittelfristig
-- **Lady Elara finden** — lebend, falls möglich. Tot, falls nötig. Gerechtigkeit, falls verraten.
-- Aufdecken, was in [[04 - Welt/Orte/Siedlungen/Fungaard\|Fungaard]] vorgeht — und ob die [[04 - Welt/Fraktionen/Familie Rith'kar\|Rith'kar]] selbst dahinterstecken.
-- Die Fassade aufrechterhalten gegenüber der [[04 - Welt/Fraktionen/Eisige Faust\|Eisigen Faust]].
-
-## Langfristig
-- **Die Samen der [[06 - Plotfäden/Die Sommer-Teeblätter\|Sommer-Teeblätter]]** finden. Echten Tee aufbrühen, einmal in seinem Leben.
-- Die **Ordnung in [[04 - Welt/Orte/Schauplätze/Sternenfall\|Sternenfall]]** wiederherstellen — eine Welt, in der der Dienstplan funktioniert.
 
 ## Need
 - **Erkennen, dass die Ordnung Mittel war, nicht Zweck.** Dass die Hingabe, die ihn zum Seraph gemacht hat, den **Menschen** galt, nicht der **Form**.

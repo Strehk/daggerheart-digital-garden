@@ -25,23 +25,37 @@ Percy ist ein hingebungsvoller Butler, der durch die Reinheit seiner Fürsorge *
 - Höfische, präzise Sprache. **Übersetzt furchtbare Situationen in höfisches Protokoll.**
 - Nimmt seine Schutzbefohlenen — die Gruppe — todernst.
 
+## Backstory & Verbindungen
+Volle Chronologie, aktive Plotfäden und offene Fäden in [[01 - Mein Charakter/Backstory/Übersicht\|Backstory-Übersicht]]. Zentrale Anker: [[03 - NPCs/Familie Ashwood\|Familie Ashwood]], [[03 - NPCs/Lady Elara Vance\|Lady Elara Vance]].
+
+## Themen / roter Faden
+- **Hingabe als spirituelle Praxis.** Percy hat nie zwischen Etikette und Theologie unterschieden — beides ist die Form, in der man sich um andere kümmert.
+- **Ordnung als Glaubenssatz.** Unordnung an der Welt ertragen, Unordnung an sich selbst nie.
+- **Loyalität gegen Gewissen.** Er ist Rith'kar-loyal, weil seine Herrin es ist. Was, wenn diese Treue zueinander irgendwann auseinanderdriftet?
+
 ## Die drei Säulen
 
 ### Gimmick — Manieren dominieren
 Sieht aus wie aus einem Sternenfall-Gemälde gestiegen. Wischt sich galant Schnee von der Schulter, rückt das Monokel zurecht, **entschuldigt sich beim Feind**, bevor er zuschlägt. Witz aus dem absurden Kontrast zur dreckigen Eiswelt.
 
 ### Conflict — Die Fassade halten
-Persönlicher Majordomus von [[03 - NPCs/Lady Elara Vance\|Lady Elara Vance]] — engste Beraterin und Cousine zweiten Grades von [[03 - NPCs/Lillia Vess Rith'kar\|Lillia Vess Rith'kar]]. Lady Elara ist verschwunden, nachdem sie Unregelmäßigkeiten in [[04 - Welt/Orte/Siedlungen/Fungaard\|Fungaard]] untersuchen wollte. Percy ist offiziell auf "Bildungsurlaub", sucht aber heimlich nach ihr. Muss die Fassade aufrechterhalten — darf die [[04 - Welt/Fraktionen/Familie Rith'kar\|Rith'kar]] nicht offen verraten — bemerkt aber zunehmend, dass in Fungaard Dinge geschehen, die selbst seinen moralischen Prinzipien zuwiderlaufen.
+Persönlicher Majordomus von [[03 - NPCs/Lady Elara Vance\|Lady Elara Vance]] — engste Beraterin von [[03 - NPCs/Lillia Vess Rith'kar\|Lillia Vess Rith'kar]]. Lady Elara ist verschwunden, nachdem sie Unregelmäßigkeiten in [[04 - Welt/Orte/Siedlungen/Fungaard\|Fungaard]] untersuchen wollte. Percy ist offiziell auf "Bildungsurlaub", sucht aber heimlich nach ihr. Muss die Fassade aufrechterhalten — darf die [[04 - Welt/Fraktionen/Familie Rith'kar\|Rith'kar]] nicht offen verraten — bemerkt aber zunehmend, dass in Fungaard Dinge geschehen, die selbst seinen moralischen Prinzipien zuwiderlaufen.
 
 ### Want — Ordnung wiederherstellen
 - **Oberflächlich:** Lady Elara finden, damit der Dienstplan in [[04 - Welt/Orte/Schauplätze/Sternenfall\|Sternenfall]] wieder funktioniert.
-- **Tief und heilig:** Die Samen der **[[06 - Plotfäden/Die Sommer-Teeblätter\|Sommer-Teeblätter]]** finden — angeblich in einem legendären Gewächshaus aus der [[04 - Welt/Geschichte & Mythen/Die alte Welt\|Zeit vor der Winterzählung]] verschollen — um endlich richtigen Tee aufbrühen zu können statt diesem bitteren Pilz-Sud aus [[04 - Welt/Orte/Siedlungen/Fungaard\|Fungaard]].
-- **Want → Need:** Dass die Ordnung Mittel war, nicht Zweck. Dass die Hingabe, die ihn zum Seraph gemacht hat, den **Menschen** galt, nicht der **Form** — und dass die Form Schweigen verlangt, das die Menschen ihn lehren zu brechen. Lernen, das Ungesagte auszusprechen: [[Cassian Ashwood\|Cassian]] zu fragen, [[01 - Mein Charakter/Backstory/Daggers/Septimus' versiegelter Brief\|den Brief]] zu öffnen, [[01 - Mein Charakter/Backstory/Daggers/Aldwin und die Karte\|die Karte]] zu falten, [[01 - Mein Charakter/Backstory/Daggers/Mareth aus der Waschküche\|Mareth]] zu suchen, der Mutter aus [[01 - Mein Charakter/Backstory/Daggers/Das Kind in den Hohlen Klippen\|den Hohlen Klippen]] zu antworten, und der Party irgendwann zu sagen, was er denkt — statt was er sagen darf.
+- **Tief und heilig:** Die Samen der **[[01 - Mein Charakter/Plotfäden/Die Sommer-Teeblätter\|Sommer-Teeblätter]]** finden — angeblich in einem legendären Gewächshaus aus der [[04 - Welt/Geschichte & Mythen/Die alte Welt\|Zeit vor der Winterzählung]] verschollen — um endlich richtigen Tee aufbrühen zu können statt diesem bitteren schwarzem Pilz-Tee aus [[04 - Welt/Orte/Siedlungen/Fungaard\|Fungaard]].
+- **Want → Need:** Dass die Ordnung Mittel war, nicht Zweck. Dass die Hingabe, die ihn zum Seraph gemacht hat, den **Menschen** galt, nicht der **Form** — und dass die Form Schweigen verlangt, das die Menschen ihn lehren zu brechen. Lernen, das Ungesagte auszusprechen: [[01 - Mein Charakter/Backstory/Daggers/Cassian Ashwoods Verschwinden\|Cassian]] zu fragen, [[01 - Mein Charakter/Backstory/Daggers/Septimus' versiegelter Brief\|den Brief]] zu öffnen, [[01 - Mein Charakter/Backstory/Daggers/Aldwin und die Karte\|die Karte]] zu falten, [[01 - Mein Charakter/Backstory/Daggers/Mareth aus der Waschküche\|Mareth]] zu suchen, der Mutter aus [[01 - Mein Charakter/Backstory/Daggers/Das Kind in den Hohlen Klippen\|den Hohlen Klippen]] zu antworten, und der Party irgendwann zu sagen, was er denkt — statt was er sagen darf.
 
 ## Marotten
 - **Unordnung an der eigenen Person ist schlimmer als Schaden.** Blut auf dem Frack ist eine Beleidigung. Zückt mitten in der Aktion Bürsten oder kleine Zaubertricks: *„Das war pure Seide aus [[04 - Welt/Orte/Siedlungen/Estmark\|Estmark]], Sie unkultiviertes Biest!"*
 - **Verweigert Vulgarität und Panik.** Übersetzt alles ins höfische Protokoll. Ein Werwolf ist ein „unangekündigter Besucher mit nicht zu rechtfertigendem Tischverhalten".
 - **Behandelt die Gruppe als Schutzbefohlene.** Zupft Krägen zurecht, wischt Schmutz aus Gesichtern (ungefragt), stellt sich ohne Zögern schützend vor sie.
+
+## Was ich am Tisch zeigen will
+- **Die Komik des Kontrasts** — Frack im Eissturm, Tee im Trolllager.
+- Der **stoische Beschützer** unter dem exzentrischen Butler.
+- **Stille Ermittlung** — Percy spielt die Naivität, ist aber wachsamer als er wirkt.
+- Eventuell: das **moralische Aufweichen**, wenn er in [[04 - Welt/Orte/Siedlungen/Fungaard\|Fungaard]] Dinge sieht, die nicht mehr zu rechtfertigen sind.
 
 ## Class & Domains
 - **Class:** Seraph — siehe [[08 - Mechaniken/Campaign Frame Optionen\|Campaign Frame Optionen]] für Frame-Anpassungen.
@@ -62,10 +76,10 @@ Persönlicher Majordomus von [[03 - NPCs/Lady Elara Vance\|Lady Elara Vance]] �
 |  |  |  |  |  |  |
 
 ## Experiences
-*(noch zu finalisieren — siehe [[01 - Mein Charakter/Experiences\|Experiences]] für Story und Vorschläge.)*
+*Story und Anwendungs-Hinweise in [[01 - Mein Charakter/Experiences\|Experiences]].*
 
-- *„Manieren dominieren!"* (+2) — höfisches Protokoll, Etikette, Diplomatie unter Druck.
-- *Majordomus von Sternenfall* (+2) — Insider-Wissen über Familie [[04 - Welt/Fraktionen/Familie Rith'kar\|Rith'kar]], Hofalltag, Dienstwege.
+- *„Manieren dominieren!"* (+2)
+- *Majordomus von Sternenfall* (+2)
 
 ## Ancestral Features
 - *(durch Mixed Ancestry zu wählen)*
@@ -74,23 +88,11 @@ Persönlicher Majordomus von [[03 - NPCs/Lady Elara Vance\|Lady Elara Vance]] �
 *(siehe Daggerheart Core Rulebook — Seraph)*
 
 ## Equipment
-- **Stockdegen** — siehe [[07 - Items/Adler-Stockdegen\|Adler-Stockdegen]]: edler Gehstock, dunkles Grauholz, silberner Adlerkopf, ausziehbarer Degen.
-- **Frack** aus reiner Estmark-Seide.
-- **Monokel** mit feiner Goldkette.
-- **Silbernes Teetablett** — siehe [[07 - Items/Silbernes Teetablett\|Silbernes Teetablett]]. Gut zum Servieren *und* zum Knochenbrechen.
-- **Tee-Vorrat aus Sternenfall** — siehe [[07 - Items/Tee-Vorrat aus Sternenfall\|Tee-Vorrat aus Sternenfall]]. Bester Bestand der Festungs-Keller. **Schwindet.**
-- **Bürsten und Reinigungsutensilien** für den Frack.
+*Volle Liste in [[01 - Mein Charakter/Ausrüstung & Inventar\|Ausrüstung & Inventar]]. Spielrelevant:*
 
-## Backstory & Verbindungen
-- [[01 - Mein Charakter/Backstory/Übersicht\|Backstory-Übersicht]]
-- [[03 - NPCs/Familie Ashwood\|Familie Ashwood]] — die Majordomus-Dynastie aus Sternenfall.
-- [[03 - NPCs/Lady Elara Vance\|Lady Elara Vance]] — die verschwundene Herrin.
-- [[01 - Mein Charakter/Backstory/Schlüsselereignisse/Berufung durch Nira\|Berufung durch Nira]] — wie Percy zum Seraph wurde, ohne es zu merken.
-
-## Aktive Plotfäden
-- [[06 - Plotfäden/Das Verschwinden von Lady Elara Vance\|Das Verschwinden von Lady Elara Vance]] — die persönliche Mission.
-- [[06 - Plotfäden/Unregelmäßigkeiten in Fungaard\|Unregelmäßigkeiten in Fungaard]] — was Lady Elara untersuchen wollte.
-- [[06 - Plotfäden/Die Sommer-Teeblätter\|Die Sommer-Teeblätter]] — das stille, heilige Ziel.
+- **Primary:** [[07 - Items/Adler-Stockdegen\|Adler-Stockdegen]]
+- **Secondary:** [[07 - Items/Silbernes Teetablett\|Silbernes Teetablett]]
+- **[[07 - Items/Tee-Vorrat aus Sternenfall\|Tee-Vorrat aus Sternenfall]]** — schwindet.
 
 ## Setting-Bezug
 - Kampagne: [[04 - Welt/Noryndal\|Noryndal]] / *Das gefrorene Tal*.
