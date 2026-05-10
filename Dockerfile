@@ -13,28 +13,7 @@ RUN npm ci
 # committed .env — edit and push to change site name, theme, flags, etc.
 COPY . .
 
-# DEBUG — visible in Dokploy build logs. Remove once everything is green.
-RUN echo "===== [1] final .env =====" && cat .env && echo "" && echo "===== end ====="
-
-# Verify build environment can reach the theme URL (network egress).
-# wget exits 0 on any successful HTTP response.
-RUN echo "===== [2] theme URL reachable? =====" && \
-    THEME_URL=$(grep '^THEME=' .env | cut -d= -f2-) && \
-    if [ -n "$THEME_URL" ]; then \
-      wget -q -S --spider "$THEME_URL" 2>&1 | head -5 || echo "FETCH FAILED"; \
-    else \
-      echo "no THEME set in .env"; \
-    fi && \
-    echo "===== end ====="
-
 RUN npm run build
-
-RUN echo "===== [3] dist/styles/ contents =====" && ls -la dist/styles/ && \
-    echo "" && echo "===== [4] _theme.*.css present? =====" && \
-    (ls dist/styles/_theme.*.css 2>&1 || echo "NO THEME CSS — get-theme.js did not produce one") && \
-    echo "" && echo "===== [5] theme reference in built HTML =====" && \
-    (grep -E 'theme.*\.css|theme-' dist/index.html 2>/dev/null | head -5 || echo "no dist/index.html") && \
-    echo "===== end ====="
 
 # ---- runtime ----
 FROM nginx:alpine AS runtime
