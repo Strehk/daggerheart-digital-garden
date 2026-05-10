@@ -5,54 +5,36 @@ FROM node:22-alpine AS builder
 
 WORKDIR /app
 
-# Build-time configuration — pass these as Build Arguments in Dokploy
-# (or `docker build --build-arg KEY=value ...`). Anything left unset
-# falls back to the value committed in `.env`.
-#
-# Why we mutate `.env` instead of declaring ENVs: dotenv.config() does
-# not override existing process.env, so an empty ENV from an unset ARG
-# would silently mask the .env default. We instead rewrite .env at
-# build time, keeping it the single source of truth.
-ARG SITE_NAME_HEADER
-ARG SITE_BASE_URL
-ARG SITE_MAIN_LANGUAGE
-ARG BASE_THEME
-ARG THEME
-ARG SHOW_CREATED_TIMESTAMP
-ARG SHOW_UPDATED_TIMESTAMP
-ARG TIMESTAMP_FORMAT
-ARG USE_FULL_RESOLUTION_IMAGES
-
 # Install dependencies first for better layer caching
 COPY package.json package-lock.json ./
 RUN npm ci
 
-# Copy the rest of the source.
+# Copy the rest of the source. Configuration lives entirely in the
+# committed .env — edit and push to change site name, theme, flags, etc.
 COPY . .
 
-# For each non-empty build arg, replace (or append) the matching line in .env.
-RUN set -e; \
-    apply_arg() { \
-      key="$1"; val="$2"; \
-      [ -z "$val" ] && return 0; \
-      if grep -q "^${key}=" .env 2>/dev/null; then \
-        awk -v k="$key" -v v="$val" -F= 'BEGIN{OFS="="} $1==k{print k"="v; next} 1' .env > .env.tmp && mv .env.tmp .env; \
-      else \
-        printf '%s=%s\n' "$key" "$val" >> .env; \
-      fi; \
-    }; \
-    apply_arg SITE_NAME_HEADER "$SITE_NAME_HEADER"; \
-    apply_arg SITE_BASE_URL "$SITE_BASE_URL"; \
-    apply_arg SITE_MAIN_LANGUAGE "$SITE_MAIN_LANGUAGE"; \
-    apply_arg BASE_THEME "$BASE_THEME"; \
-    apply_arg THEME "$THEME"; \
-    apply_arg SHOW_CREATED_TIMESTAMP "$SHOW_CREATED_TIMESTAMP"; \
-    apply_arg SHOW_UPDATED_TIMESTAMP "$SHOW_UPDATED_TIMESTAMP"; \
-    apply_arg TIMESTAMP_FORMAT "$TIMESTAMP_FORMAT"; \
-    apply_arg USE_FULL_RESOLUTION_IMAGES "$USE_FULL_RESOLUTION_IMAGES"
+# DEBUG — visible in Dokploy build logs. Remove once everything is green.
+RUN echo "===== [1] final .env =====" && cat .env && echo "" && echo "===== end ====="
 
-# Eleventy build needs network access to fetch the theme (get-theme.js)
+# Verify build environment can reach the theme URL (network egress).
+# wget exits 0 on any successful HTTP response.
+RUN echo "===== [2] theme URL reachable? =====" && \
+    THEME_URL=$(grep '^THEME=' .env | cut -d= -f2-) && \
+    if [ -n "$THEME_URL" ]; then \
+      wget -q -S --spider "$THEME_URL" 2>&1 | head -5 || echo "FETCH FAILED"; \
+    else \
+      echo "no THEME set in .env"; \
+    fi && \
+    echo "===== end ====="
+
 RUN npm run build
+
+RUN echo "===== [3] dist/styles/ contents =====" && ls -la dist/styles/ && \
+    echo "" && echo "===== [4] _theme.*.css present? =====" && \
+    (ls dist/styles/_theme.*.css 2>&1 || echo "NO THEME CSS — get-theme.js did not produce one") && \
+    echo "" && echo "===== [5] theme reference in built HTML =====" && \
+    (grep -E 'theme.*\.css|theme-' dist/index.html 2>/dev/null | head -5 || echo "no dist/index.html") && \
+    echo "===== end ====="
 
 # ---- runtime ----
 FROM nginx:alpine AS runtime
