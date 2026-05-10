@@ -15,7 +15,7 @@
 - [[08 - Mechaniken/Gunst der Rith'kar\|Gunst der Rith'kar]] — Gruppen-Erfahrung (aktuell: 0)
 - [[08 - Mechaniken/Spieler-Prinzipien\|Spieler-Prinzipien]] · [[08 - Mechaniken/GM-Prinzipien\|GM-Prinzipien]]
 - [[08 - Mechaniken/Campaign Frame Optionen\|Campaign Frame Optionen]] — Anpassungen für Charakter-Bau
-- [[01 - Mein Charakter/Charakter-Bau/Session 0 Fragen\|Session 0 Fragen]]
+- [[01 - Mein Charakter/Backstory/Session 0 Fragen\|Session 0 Fragen]]
 
 ## Übersichten
 - [[00 - Index/Charaktere MOC\|Charaktere MOC]]

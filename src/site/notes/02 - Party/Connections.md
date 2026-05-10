@@ -9,22 +9,22 @@
 
 ## Connection-Matrix
 
-| Von → Zu | (PC2) | (PC3) | (PC4) |
+| Von → Zu | [[02 - Party/Leowam Warmwasser\|Leom]] | (PC3) | (PC4) |
 |---|---|---|---|
-| **Mein Charakter** |  |  |  |
-| **(PC2)** | — |  |  |
+| **[[01 - Mein Charakter/Lord Percival Ashwood\|Percy]]** |  |  |  |
+| **[[02 - Party/Leowam Warmwasser\|Leom]]** | — |  |  |
 | **(PC3)** |  | — |  |
 | **(PC4)** |  |  | — |
 
 ## Detail-Notizen
 
-### Mein Charakter ↔ (PC2)
+### Percy ↔ Leom
 - **Wie kennen sie sich?** 
 - **Was verbindet sie?** 
 - **Was steht ungelöst zwischen ihnen?** 
 
-### Mein Charakter ↔ (PC3)
+### Percy ↔ (PC3)
 - 
 
-### Mein Charakter ↔ (PC4)
+### Percy ↔ (PC4)
 - 

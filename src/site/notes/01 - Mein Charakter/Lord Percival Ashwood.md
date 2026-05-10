@@ -36,6 +36,7 @@ Persönlicher Majordomus von [[03 - NPCs/Lady Elara Vance\|Lady Elara Vance]] �
 ### Want — Ordnung wiederherstellen
 - **Oberflächlich:** Lady Elara finden, damit der Dienstplan in [[04 - Welt/Orte/Schauplätze/Sternenfall\|Sternenfall]] wieder funktioniert.
 - **Tief und heilig:** Die Samen der **[[06 - Plotfäden/Die Sommer-Teeblätter\|Sommer-Teeblätter]]** finden — angeblich in einem legendären Gewächshaus aus der [[04 - Welt/Geschichte & Mythen/Die alte Welt\|Zeit vor der Winterzählung]] verschollen — um endlich richtigen Tee aufbrühen zu können statt diesem bitteren Pilz-Sud aus [[04 - Welt/Orte/Siedlungen/Fungaard\|Fungaard]].
+- **Want → Need:** Dass die Ordnung Mittel war, nicht Zweck. Dass die Hingabe, die ihn zum Seraph gemacht hat, den **Menschen** galt, nicht der **Form** — und dass die Form Schweigen verlangt, das die Menschen ihn lehren zu brechen. Lernen, das Ungesagte auszusprechen: [[Cassian Ashwood\|Cassian]] zu fragen, [[01 - Mein Charakter/Backstory/Daggers/Septimus' versiegelter Brief\|den Brief]] zu öffnen, [[01 - Mein Charakter/Backstory/Daggers/Aldwin und die Karte\|die Karte]] zu falten, [[01 - Mein Charakter/Backstory/Daggers/Mareth aus der Waschküche\|Mareth]] zu suchen, der Mutter aus [[01 - Mein Charakter/Backstory/Daggers/Das Kind in den Hohlen Klippen\|den Hohlen Klippen]] zu antworten, und der Party irgendwann zu sagen, was er denkt — statt was er sagen darf.
 
 ## Marotten
 - **Unordnung an der eigenen Person ist schlimmer als Schaden.** Blut auf dem Frack ist eine Beleidigung. Zückt mitten in der Aktion Bürsten oder kleine Zaubertricks: *„Das war pure Seide aus [[04 - Welt/Orte/Siedlungen/Estmark\|Estmark]], Sie unkultiviertes Biest!"*
@@ -84,7 +85,7 @@ Persönlicher Majordomus von [[03 - NPCs/Lady Elara Vance\|Lady Elara Vance]] �
 - [[01 - Mein Charakter/Backstory/Übersicht\|Backstory-Übersicht]]
 - [[03 - NPCs/Familie Ashwood\|Familie Ashwood]] — die Majordomus-Dynastie aus Sternenfall.
 - [[03 - NPCs/Lady Elara Vance\|Lady Elara Vance]] — die verschwundene Herrin.
-- [[01 - Mein Charakter/Backstory/Berufung durch Nira\|Berufung durch Nira]] — wie Percy zum Seraph wurde, ohne es zu merken.
+- [[01 - Mein Charakter/Backstory/Schlüsselereignisse/Berufung durch Nira\|Berufung durch Nira]] — wie Percy zum Seraph wurde, ohne es zu merken.
 
 ## Aktive Plotfäden
 - [[06 - Plotfäden/Das Verschwinden von Lady Elara Vance\|Das Verschwinden von Lady Elara Vance]] — die persönliche Mission.

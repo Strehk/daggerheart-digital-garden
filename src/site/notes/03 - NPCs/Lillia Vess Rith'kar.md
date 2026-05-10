@@ -30,7 +30,7 @@
 - Erstarken der [[04 - Welt/Fraktionen/Tuchmacher\|Tuchmacher]], widerständische Tendenzen.
 
 ## Mein direkter Kontakt
-*(Session-0-Frage. Siehe [[01 - Mein Charakter/Charakter-Bau/Session 0 Fragen\|Session 0 Fragen]].)*
+*(Session-0-Frage. Siehe [[01 - Mein Charakter/Backstory/Session 0 Fragen\|Session 0 Fragen]].)*
 - 
 
 ## Vermutungen

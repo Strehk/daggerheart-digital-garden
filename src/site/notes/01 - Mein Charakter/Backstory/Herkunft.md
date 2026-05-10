@@ -16,7 +16,7 @@
 
 ## Soziales Umfeld
 - **Hochadel der [[04 - Welt/Fraktionen/Familie Rith'kar\|Familie Rith'kar]]** als Herrschaft.
-- **Andere Bedienstete** — Köche, Wäscherinnen, Stallmeister:innen, Hofschreiber:innen — als ständige Kollegen.
+- **Andere Bedienstete** — Köch:innen, Wäscher:innen, Stallmeister:innen, Hofschreiber:innen — als ständige Kollegen.
 - **Andere [[Highborne\|Highborne]]** in [[04 - Welt/Orte/Siedlungen/Vestangen\|Vestangen]] als professionelles Netzwerk.
 - Wenig Kontakt zur breiten Bevölkerung — Percy kennt das einfache Leben in Noryndal überwiegend **vom Hörensagen**.
 
@@ -27,7 +27,7 @@
 - **Manieren dominieren.** Familienmotto.
 
 ## Welche Konflikte gab es?
-- *(noch zu definieren — kandidiert für die [[01 - Mein Charakter/Backstory/Schlüsselereignisse\|Schlüsselereignisse]])*
+- *(noch zu definieren)*
 - Vermutlich: Spannung zwischen blinder Loyalität (älterer Familienzweig) und stiller Beobachtung (Percys eigener Drang, Dinge zu *sehen*, nicht nur zu bedienen).
 
 ## Verbindung zur Community-Wahl

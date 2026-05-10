@@ -78,6 +78,7 @@
 ## Glossar
 
 - [[04 - Welt/Begriffe & Glossar/Eis-Ribbet und Eis-Fungril\|Eis-Ribbet und Eis-Fungril]]
+- [[04 - Welt/Begriffe & Glossar/Frostfelder\|Frostfelder]]
 - [[04 - Welt/Begriffe & Glossar/Lichtpilz\|Lichtpilz]]
 
 { .block-language-dataview}

@@ -28,7 +28,7 @@
 > 
 
 ## Was die Familie meines Charakters über den Winter erzählt
-*(Session-0-Frage — siehe [[01 - Mein Charakter/Charakter-Bau/Session 0 Fragen\|Session 0 Fragen]].)*
+*(Session-0-Frage — siehe [[01 - Mein Charakter/Backstory/Session 0 Fragen\|Session 0 Fragen]].)*
 
 **[[03 - NPCs/Familie Ashwood\|Familie Ashwood]] — Konservierungs-These:**
 - Der ewige Winter ist **keine Strafe und kein Fluch**, sondern eine **Bewahrungsmaßnahme**.

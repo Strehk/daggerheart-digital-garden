@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/04-welt/noryndal/","tags":["setting","noryndal","übersicht"],"dg-note-properties":{"type":"lore","tags":["setting","noryndal","übersicht"]}}
 ---
 
-
+![Teaser](/img/user/04%20-%20Welt/Bilder/Teaser.png)
 # Noryndal — Das gefrorene Tal
 
 > *Ein abgeschiedenes Tal, gefangen in ewigem Winter. Eine scheinbar unsterbliche Matriarchin regiert mit harter Hand — doch Unruhe regt sich.*
@@ -28,6 +28,7 @@ Von allen Seiten von Bergen oder dem stummen Eismeer umschlossen — ein abgesch
 - **Wälder:** [[04 - Welt/Orte/Regionen/Lydenwald\|Lydenwald]] (zentral-südlich), [[04 - Welt/Orte/Regionen/Graues Gehölz\|Graues Gehölz]] (nordwestlich).
 - **Sumpf:** [[04 - Welt/Orte/Regionen/Eschwanger Moor\|Eschwanger Moor]] (östlich).
 
+![Karte](/img/user/04%20-%20Welt/Bilder/Karte.jpeg)
 ## Jahreszeiten
 Praktisch nur Winter. Kurzer Anflug von Frühling, noch kürzerer Herbst, dann der nächste Winter. Wer hier lebt, kennt nichts anderes.
 

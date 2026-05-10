@@ -36,7 +36,7 @@ Die Rith'kar regieren das Tal nicht stumm aus [[04 - Welt/Orte/Schauplätze/Ster
 - **Gegner:** [[04 - Welt/Fraktionen/Tuchmacher\|Tuchmacher]]; widerständische Bewegungen; nicht-Rith'kar-Hexer-Familien.
 
 ## Mein Verhältnis zur Familie
-*(Session-0-Frage. Siehe [[01 - Mein Charakter/Charakter-Bau/Session 0 Fragen\|Session 0 Fragen]] und [[08 - Mechaniken/Gunst der Rith'kar\|Gunst der Rith'kar]].)*
+*(Session-0-Frage. Siehe [[01 - Mein Charakter/Backstory/Session 0 Fragen\|Session 0 Fragen]] und [[08 - Mechaniken/Gunst der Rith'kar\|Gunst der Rith'kar]].)*
 - 
 
 > [!note] Vermutung

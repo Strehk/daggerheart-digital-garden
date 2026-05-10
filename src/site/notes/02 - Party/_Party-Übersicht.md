@@ -5,9 +5,10 @@
 
 # Party-Übersicht
 
-| Charakter                                                               | Class  | Ancestry                                                           | Community | Level |
-| ----------------------------------------------------------------------- | ------ | ------------------------------------------------------------------ | --------- | ----- |
-| [[01 - Mein Charakter/Lord Percival Ashwood\|Lord Percival Ashwood]] | Seraph | Mixed (Faerie + Firbolg/Zwerg, reflavored als Schnee-Adler-Aëthon) | Highborne | 1     |
+| Charakter                                                               | Class   | Ancestry                                                           | Community | Level |
+| ----------------------------------------------------------------------- | ------- | ------------------------------------------------------------------ | --------- | ----- |
+| [[02 - Party/Leowam Warmwasser\|Leowam Warmwasser]]                  | Warlock | Mixed (Halfling + Human)                                           | \-        | 1     |
+| [[01 - Mein Charakter/Lord Percival Ashwood\|Lord Percival Ashwood]] | Seraph  | Mixed (Faerie + Firbolg/Zwerg, reflavored als Schnee-Adler-Aëthon) | Highborne | 1     |
 
 { .block-language-dataview}
 
