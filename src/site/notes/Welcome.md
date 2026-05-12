@@ -9,12 +9,11 @@
 
 ## Struktur
 - `00 - Index/` — Maps of Content (zentrale Übersichten)
-- `01 - Mein Charakter/` — eigener PC, Backstory, Charakter-Bau
+- `01 - Mein Charakter/` — eigener PC, Backstory, Daggers, Plotfäden, Charakter-Bau
 - `02 - Party/` — Mit-Spieler-Charaktere, Gruppen-Dynamik
 - `03 - NPCs/` — alle NPCs (flach, gefiltert per Frontmatter)
 - `04 - Welt/` — Orte, Fraktionen, Pantheon, Geschichte, Glossar
 - `05 - Sessions/` — Session-Protokolle, chronologisch
-- `06 - Plotfäden/` — offene und abgeschlossene Mysterien
 - `07 - Items/` — magische Gegenstände, Quest-Items
 - `08 - Mechaniken/` — Hausregeln, Spickzettel
 - `99 - Templates/` — Templater-Vorlagen
