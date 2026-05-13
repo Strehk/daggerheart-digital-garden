@@ -9,6 +9,7 @@
 | ----------------------------------------------------------------------- | ------- | ------------------------------------------------------------------ | --------- |
 | [[02 - Party/Leowam Warmwasser\|Leowam Warmwasser]]                  | Warlock | Mixed (Halfling + Human)                                           | \-        |
 | [[01 - Mein Charakter/Lord Percival Ashwood\|Lord Percival Ashwood]] | Seraph  | Mixed (Faerie + Firbolg/Zwerg, reflavored als Schnee-Adler-Aëthon) | Highborne |
+| [[02 - Party/Yuki\|Yuki]]                                            | \-      | Katari                                                             | \-        |
 
 { .block-language-dataview}
 
