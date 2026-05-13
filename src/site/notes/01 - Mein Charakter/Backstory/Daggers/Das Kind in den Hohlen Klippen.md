@@ -3,8 +3,6 @@
 ---
 
 
-# Das Kind in den Hohlen Klippen
-
 > Vor Jahren hielt Percy ein halberfrorenes Kind im Arm — und Niras Wärme reichte zum ersten Mal nicht. Die Mutter sah das Glühen und verstand es als etwas anderes, als Percy es gemeint hatte.
 
 [[03 - NPCs/Lady Elara Vance\|Lady Elara]] hatte eine Inspektion angeordnet — ein Versorgungsbericht aus einem Dorf am Rand der [[04 - Welt/Orte/Schauplätze/Hohle Klippen\|Hohlen Klippen]] nannte Lieferzahlen, die nicht zur Bevölkerung passten. Es war eine Tagesreise, vielleicht weniger; sie wollte selbst hinfahren. Percy fuhr mit, weil Percy immer mitfuhr.

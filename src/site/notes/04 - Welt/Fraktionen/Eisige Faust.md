@@ -3,8 +3,6 @@
 ---
 
 
-# Eisige Faust
-
 > Die Söldnergruppe und der bewaffnete Arm der [[04 - Welt/Fraktionen/Familie Rith'kar\|Familie Rith'kar]]. Brutaler Garant der Herrschaft.
 
 ## Aufgabe

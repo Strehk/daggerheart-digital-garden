@@ -3,8 +3,6 @@
 ---
 
 
-# Geheimnisse & innere Konflikte
-
 ## Geheimnisse, die niemand kennt
 - **Die gefälschten Eingaben** über Lady Elaras „Schweigeklausur" und seinen eigenen „Bildungsurlaub". Wenn das aufgedeckt wird → Hochverrat.
 - **Lady Elaras stille Zweifel** an Lillia Vess Rith'kar — Percy weiß davon, hat es nie ausgesprochen.

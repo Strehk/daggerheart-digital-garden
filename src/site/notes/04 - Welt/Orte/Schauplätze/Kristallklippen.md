@@ -3,8 +3,6 @@
 ---
 
 
-# Kristallklippen
-
 > Steile Klippen, an denen das [[04 - Welt/Orte/Regionen/Narbengebirge\|Narbengebirge]] direkt ins [[04 - Welt/Orte/Regionen/Eismeer\|Eismeer]] ragt.
 
 ## Was wir wissen

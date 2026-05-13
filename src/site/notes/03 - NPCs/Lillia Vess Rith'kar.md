@@ -3,8 +3,6 @@
 ---
 
 
-# Lillia Vess Rith'kar
-
 > Die **Matriarchin** und **Hexenkönigin**. Herrscht im **331. Jahr** über Noryndal. Viele behaupten, sie sei unsterblich.
 
 ## Status auf einen Blick

@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/01-mein-charakter/backstory/herkunft/","tags":["backstory","herkunft","ashwood"],"dg-note-properties":{"type":"notes","tags":["backstory","herkunft","ashwood"]}}
 ---
 
-
-# Herkunft
-
 ## Wo aufgewachsen
 - In den **Bedienstetenquartieren** der Festung [[04 - Welt/Orte/Schauplätze/Sternenfall\|Sternenfall]] — über und unter den fürstlichen Räumen, durch ein Netz von Treppen und Geheimgängen verbunden.
 - Wer als Ashwood-Küken in Sternenfall auf die Welt kommt, **kennt die Festung schon, bevor er fliegen kann**.

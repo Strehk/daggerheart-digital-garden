@@ -3,8 +3,6 @@
 ---
 
 
-# Tuscofall Heiligtum
-
 > Heiligtum / Ruine in den nördlichen [[04 - Welt/Orte/Regionen/Steinerne Stelen\|Steinernen Stelen]].
 
 ## Was wir wissen

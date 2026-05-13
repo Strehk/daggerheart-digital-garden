@@ -3,8 +3,6 @@
 ---
 
 
-# Adler-Stockdegen
-
 > Edler Gehstock aus poliertem, **dunklem Grauholz**, gekrönt mit dem **silbernen Kopf eines Adlers** — und mit integriertem, ausziehbarem Degen.
 
 ## Erscheinung

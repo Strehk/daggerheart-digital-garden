@@ -3,8 +3,6 @@
 ---
 
 
-# Kalthavn
-
 > **Zweitgrößte Stadt** Noryndals. Mündung der [[04 - Welt/Orte/Schauplätze/Nordau\|Nordau]] ins [[04 - Welt/Orte/Regionen/Eismeer\|Eismeer]]. Das Tor zur Außenwelt.
 
 ## Bedeutung

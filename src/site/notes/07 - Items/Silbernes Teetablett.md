@@ -3,8 +3,6 @@
 ---
 
 
-# Silbernes Teetablett
-
 > Silbernes Tablett aus dem Festungs-Bestand von [[04 - Welt/Orte/Schauplätze/Sternenfall\|Sternenfall]]. Funktioniert als Servier-Utensil **und** — mit angemessener Empörung geschwungen — als Behelfswaffe.
 
 ## Erscheinung

@@ -3,8 +3,6 @@
 ---
 
 
-# Connections
-
 > Daggerheart fragt zu Beginn nach Connections zwischen den PCs — gemeinsame Vergangenheit, geteilte Geheimnisse, offene Schulden. Hier wird das verdichtet.
 
 ## Connection-Matrix

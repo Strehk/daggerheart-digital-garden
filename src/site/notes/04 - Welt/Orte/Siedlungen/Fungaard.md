@@ -3,8 +3,6 @@
 ---
 
 
-# Fungaard
-
 > **Drittgrößte Siedlung** Noryndals. An den [[04 - Welt/Orte/Schauplätze/Hohle Klippen\|Hohlen Klippen]] im [[04 - Welt/Orte/Regionen/Narbengebirge\|Narbengebirge]]. **Schlüssel zur Lebensmittelversorgung.**
 
 ## Bedeutung

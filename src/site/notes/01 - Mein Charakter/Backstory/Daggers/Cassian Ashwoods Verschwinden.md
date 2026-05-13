@@ -3,8 +3,6 @@
 ---
 
 
-# Cassian Ashwoods Verschwinden
-
 > Älterer Bruder. Verstoßen, als Percy noch ein Küken war. Seither nicht gesehen, nicht erwähnt, nicht in den Familienbüchern verzeichnet.
 
 Cassian diente in einem Haus, dessen Geschäfte selten in den Lichtsälen [[04 - Welt/Orte/Schauplätze/Sternenfall\|Sternenfalls]] besprochen wurden. Er war zwölf Jahre älter als Percy, hatte die volle Etikette-Erziehung der [[03 - NPCs/Familie Ashwood\|Ashwoods]] hinter sich und galt in den Bedienstetenquartieren lange als der nächste Senior-Anwärter. Eines Winters galt er das nicht mehr.

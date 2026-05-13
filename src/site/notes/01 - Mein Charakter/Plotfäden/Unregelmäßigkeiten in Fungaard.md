@@ -3,8 +3,6 @@
 ---
 
 
-# Unregelmäßigkeiten in Fungaard
-
 > Unstimmigkeiten in den Lichtpilz-Lieferungen aus [[04 - Welt/Orte/Siedlungen/Fungaard\|Fungaard]] — der Auslöser dafür, dass [[03 - NPCs/Lady Elara Vance\|Lady Elara Vance]] aufbrach und nie zurückkehrte.
 
 ## Der Stand der Dinge

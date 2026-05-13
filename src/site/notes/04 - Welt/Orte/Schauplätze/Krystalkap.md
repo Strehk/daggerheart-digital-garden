@@ -3,8 +3,6 @@
 ---
 
 
-# Krystalkap
-
 > Insel oder Vorgebirge im südlichen [[04 - Welt/Orte/Regionen/Eismeer\|Eismeer]], westlich der [[04 - Welt/Orte/Schauplätze/Kristallklippen\|Kristallklippen]].
 
 ## Was wir wissen

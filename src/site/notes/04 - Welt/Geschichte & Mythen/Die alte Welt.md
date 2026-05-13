@@ -3,8 +3,6 @@
 ---
 
 
-# Die alte Welt
-
 > Die Zeit *vor* dem ewigen Winter. Niemand erinnert sich. Die Ruinen sind überall.
 
 ## Was wir wissen

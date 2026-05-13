@@ -3,8 +3,6 @@
 ---
 
 
-# Daggerheart-Spickzettel
-
 > Eigene Kurz-Notizen zu Mechaniken, die ich am Tisch oft brauche. Kein SRD-Ersatz — nur das, was bei mir hängenbleiben soll.
 
 ## Duality Dice (Hope/Fear)

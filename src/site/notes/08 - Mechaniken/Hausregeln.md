@@ -3,8 +3,6 @@
 ---
 
 
-# Hausregeln
-
 > Regelabweichungen, die unsere Runde nutzt. Gesammelt mit Datum/Session, ab wann sie gelten.
 
 ## Aktive Hausregeln

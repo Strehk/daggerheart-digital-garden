@@ -3,8 +3,6 @@
 ---
 
 
-# Steinerne Stelen
-
 > Die hohen Gipfel im **Osten** Noryndals — politisches und geographisches Rückgrat des Tals.
 
 ## Geographie

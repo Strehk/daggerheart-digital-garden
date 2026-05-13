@@ -3,8 +3,6 @@
 ---
 
 
-# Sternenfall
-
 > **Festung** über [[04 - Welt/Orte/Siedlungen/Vestangen\|Vestangen]]. Sitz der [[04 - Welt/Fraktionen/Familie Rith'kar\|Familie Rith'kar]] und Wohnung von [[03 - NPCs/Lillia Vess Rith'kar\|Lillia Vess Rith'kar]]. Ein **stiller Wächter** über dem Tal.
 
 ## Lage

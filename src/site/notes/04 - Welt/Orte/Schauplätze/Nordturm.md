@@ -3,8 +3,6 @@
 ---
 
 
-# Nordturm
-
 > Wachturm im Norden, am Rand des [[04 - Welt/Orte/Regionen/Feuermassiv\|Feuermassiv]]s.
 
 ## Was wir wissen

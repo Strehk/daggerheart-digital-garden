@@ -3,8 +3,6 @@
 ---
 
 
-# Sudeturm
-
 > Wachturm im Süden, zwischen [[04 - Welt/Orte/Schauplätze/Geyserquellen\|Geyserquellen]] und der [[04 - Welt/Orte/Regionen/Salzwüste\|Salzwüste]].
 
 ## Was wir wissen

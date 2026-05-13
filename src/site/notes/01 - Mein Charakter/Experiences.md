@@ -3,8 +3,6 @@
 ---
 
 
-# Experiences
-
 > Daggerheart-Experiences sind kurze, persönliche Beschreibungen, die einen Bonus geben, wenn sie zur Aktion passen. Hier die gewählten Experiences mit der Story dahinter.
 
 ## Aktive Experiences (Vorschläge — finalisieren mit GM)
@@ -25,6 +23,3 @@
 - *Botanik der alten Welt* — sobald die Reise zu den [[01 - Mein Charakter/Plotfäden/Die Sommer-Teeblätter\|Sommer-Teeblättern]] tatsächlich Wissen produziert.
 - *Stille Beobachtung* — wenn Percy lernt, dass auch Schweigen ein Werkzeug ist.
 - *Niras Wärme* — wenn er seine Berufung **bewusst** annimmt.
-
-## Hinweise zur Verwendung
-- **Mit der [[08 - Mechaniken/Gunst der Rith'kar\|Gunst der Rith'kar]] kombinieren:** Percy startet vermutlich mit positivem Wert. *Majordomus von Sternenfall* + Gunst-Bonus + Hope = sehr starke Würfe gegen Eisige Faust / Hofbeamt:innen — **dafür ist es gemacht**.

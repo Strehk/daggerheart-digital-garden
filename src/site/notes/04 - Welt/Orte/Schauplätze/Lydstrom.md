@@ -3,8 +3,6 @@
 ---
 
 
-# Lydstrom
-
 > Fluss im Süden Noryndals. Verbindet das südliche [[04 - Welt/Orte/Regionen/Narbengebirge\|Narbengebirge]] mit dem [[04 - Welt/Orte/Regionen/Eismeer\|Eismeer]] bei [[04 - Welt/Orte/Siedlungen/Lydsund\|Lydsund]].
 
 ## Verlauf

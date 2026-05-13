@@ -3,8 +3,6 @@
 ---
 
 
-# Kampagne MOC
-
 > Zentraler Einstiegspunkt in den Vault. Von hier aus erreichst du alle Bereiche.
 
 ## Setting: Das gefrorene Tal

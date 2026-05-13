@@ -3,8 +3,6 @@
 ---
 
 
-# Ausrüstung & Inventar
-
 ## Waffen
 - **Primary:** [[07 - Items/Adler-Stockdegen\|Adler-Stockdegen]] — edler Gehstock aus dunklem Grauholz, silberner Adlerkopf, ausziehbarer Degen.
 - **Secondary:** [[07 - Items/Silbernes Teetablett\|Silbernes Teetablett]] — *„Ein Werkzeug der Gastfreundschaft, das gelegentlich zweckentfremdet wird."*

@@ -3,8 +3,6 @@
 ---
 
 
-# Welt MOC
-
 > Setting: **Das gefrorene Tal** — siehe [[04 - Welt/Noryndal\|Noryndal]] für die Hauptseite.
 
 ## Schnellzugriff

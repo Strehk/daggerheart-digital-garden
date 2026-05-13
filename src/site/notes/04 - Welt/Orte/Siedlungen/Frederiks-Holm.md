@@ -3,8 +3,6 @@
 ---
 
 
-# Frederiks-Holm
-
 > Inselsiedlung im nördlichen [[04 - Welt/Orte/Regionen/Eismeer\|Eismeer]], westlich der [[04 - Welt/Orte/Schauplätze/Ascheklippen\|Ascheklippen]].
 
 ## Was wir wissen

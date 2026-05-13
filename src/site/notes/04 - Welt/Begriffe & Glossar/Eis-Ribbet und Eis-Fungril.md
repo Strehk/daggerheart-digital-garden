@@ -3,8 +3,6 @@
 ---
 
 
-# Eis-Ribbet und Eis-Fungril
-
 > Spieler-Option im Campaign Frame *Das gefrorene Tal*. Besondere Abstammungen, die der Kälte angepasst sind.
 
 ## Was sie sind

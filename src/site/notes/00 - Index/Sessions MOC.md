@@ -3,8 +3,6 @@
 ---
 
 
-# Sessions MOC
-
 ## Alle Sessions chronologisch
 
 | Nr. | Datum | Session | IC-Datum |

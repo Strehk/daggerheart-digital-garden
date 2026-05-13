@@ -2,15 +2,12 @@
 {"dg-publish":true,"permalink":"/01-mein-charakter/backstory/beziehungen-vor-der-kampagne/","tags":["backstory","beziehungen"],"dg-note-properties":{"type":"notes","tags":["backstory","beziehungen"]}}
 ---
 
-
-# Beziehungen vor der Kampagne
-
 > NPCs aus Percys Vergangenheit. Wenn jemand davon plot-relevant wird, eigene NPC-Seite in `03 - NPCs/` anlegen und hier verlinken.
 
 ## Familie
 - **[[03 - NPCs/Familie Ashwood\|Familie Ashwood]]** — die Majordomus-Dynastie. Eltern und Geschwister konservativ-loyal; Percys aktuelles Vorgehen kann nicht Familienlinie sein.
 - **Onkel Septimus** — Familien-Senior, Etikette-Lehrer seit Percys Kindheit. Hat ihm vor der Abreise [[01 - Mein Charakter/Backstory/Daggers/Septimus' versiegelter Brief\|einen versiegelten Brief]] in die Hand gedrückt.
-- **[[Cassian Ashwood\|Cassian Ashwood]]** — älterer Bruder, vor Jahrzehnten verstoßen. *Diskretion gebrochen.* Seither kein Kontakt.
+- **[[01 - Mein Charakter/Backstory/Daggers/Cassian Ashwoods Verschwinden\|Cassian Ashwood]]** — älterer Bruder, vor Jahrzehnten verstoßen. *Diskretion gebrochen.* Seither kein Kontakt.
 
 ## Mentor:innen / Lehrmeister
 - **[[01 - Mein Charakter/Backstory/Daggers/Septimus' versiegelter Brief\|Onkel Septimus]]** (siehe Familie) — Etikette und Diskretion.
@@ -32,7 +29,3 @@
 
 ## Verstorbene
 - **Das halberfrorene Kind** — siehe [[01 - Mein Charakter/Backstory/Daggers/Das Kind in den Hohlen Klippen\|Das Kind in den Hohlen Klippen]]. Niras Wärme reichte nicht.
-
-## Offen für Mit-Spieler
-
-- 

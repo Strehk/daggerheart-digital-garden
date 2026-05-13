@@ -3,8 +3,6 @@
 ---
 
 
-# Nordau
-
 > Hauptfluss Noryndals. Entspringt in den [[04 - Welt/Orte/Regionen/Steinerne Stelen\|Steinernen Stelen]] im Osten und mündet bei [[04 - Welt/Orte/Siedlungen/Kalthavn\|Kalthavn]] ins [[04 - Welt/Orte/Regionen/Eismeer\|Eismeer]].
 
 ## Verlauf

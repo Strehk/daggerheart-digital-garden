@@ -3,8 +3,6 @@
 ---
 
 
-# Feuermassiv
-
 > Das von Vulkanen durchsetzte Gebirge im **Norden** Noryndals. Geht im Osten in die [[04 - Welt/Orte/Regionen/Steinerne Stelen\|Steinernen Stelen]] über.
 
 ## Geographie

@@ -3,8 +3,6 @@
 ---
 
 
-# Lydenwald
-
 > Ausgedehnter Wald im südlich-zentralen Noryndal, durchzogen vom [[04 - Welt/Orte/Schauplätze/Lydstrom\|Lydstrom]].
 
 ## Geographie

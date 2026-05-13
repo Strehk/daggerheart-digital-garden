@@ -3,8 +3,6 @@
 ---
 
 
-# Die Sommer-Teeblätter
-
 > Percys stilles, heiliges Ziel. In den Ruinen der [[04 - Welt/Geschichte & Mythen/Die alte Welt\|alten Welt]] soll ein legendäres Gewächshaus existieren, in dem die Samen der **Sommer-Teeblätter** die Jahrhunderte überdauert haben.
 
 ## Der Stand der Dinge

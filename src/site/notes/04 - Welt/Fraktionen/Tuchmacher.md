@@ -3,8 +3,6 @@
 ---
 
 
-# Tuchmacher
-
 > Die einzige nennenswerte kriminelle Vereinigung in Noryndal. Jüngst aufstrebend — ein offener Riss im Herrschafts-Eis der [[04 - Welt/Fraktionen/Familie Rith'kar\|Familie Rith'kar]].
 
 ## Bekanntes

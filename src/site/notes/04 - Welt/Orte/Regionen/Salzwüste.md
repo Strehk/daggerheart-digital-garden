@@ -3,8 +3,6 @@
 ---
 
 
-# Salzwüste
-
 > Karge Salzlandschaft im Südosten Noryndals, südlich der [[04 - Welt/Orte/Regionen/Steinerne Stelen\|Steinernen Stelen]].
 
 ## Geographie

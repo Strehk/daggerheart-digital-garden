@@ -3,8 +3,6 @@
 ---
 
 
-# Geyserquellen
-
 > Quellgebiet im Süden, südlich von [[04 - Welt/Orte/Siedlungen/Fungaard\|Fungaard]] und westlich der [[04 - Welt/Orte/Regionen/Salzwüste\|Salzwüste]].
 
 ## Was wir wissen

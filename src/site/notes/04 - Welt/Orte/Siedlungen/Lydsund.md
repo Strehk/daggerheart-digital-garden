@@ -3,8 +3,6 @@
 ---
 
 
-# Lydsund
-
 > Kleine Hafensiedlung im Süden des [[04 - Welt/Orte/Regionen/Eismeer\|Eismeer]]s, an den [[04 - Welt/Orte/Schauplätze/Kristallklippen\|Kristallklippen]].
 
 ## Was wir wissen

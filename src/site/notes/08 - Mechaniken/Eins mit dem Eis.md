@@ -3,8 +3,6 @@
 ---
 
 
-# Eins mit dem Eis
-
 > Sonderregel im Campaign Frame *Das gefrorene Tal*.
 
 ## Regel

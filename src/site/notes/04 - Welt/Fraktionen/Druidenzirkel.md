@@ -3,8 +3,6 @@
 ---
 
 
-# Druidenzirkel
-
 > Wenige, abgeschiedene Gemeinschaften in der eisigen Wildnis Noryndals zwischen den Siedlungen.
 
 ## Charakter

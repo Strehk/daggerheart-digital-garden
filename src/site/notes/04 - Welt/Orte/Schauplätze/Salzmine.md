@@ -3,8 +3,6 @@
 ---
 
 
-# Salzmine
-
 > Salzbergwerk in der südöstlichen [[04 - Welt/Orte/Regionen/Salzwüste\|Salzwüste]].
 
 ## Was wir wissen

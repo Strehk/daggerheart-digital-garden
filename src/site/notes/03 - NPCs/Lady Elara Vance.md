@@ -3,8 +3,6 @@
 ---
 
 
-# Lady Elara Vance
-
 > Hochrangige **Logistik-Ministerin** und **Cousine zweiten Grades** von [[03 - NPCs/Lillia Vess Rith'kar\|Lillia Vess Rith'kar]]. Percys Herrin. **Verschwunden.**
 
 ## Status

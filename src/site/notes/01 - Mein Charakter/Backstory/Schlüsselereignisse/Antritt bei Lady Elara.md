@@ -3,8 +3,6 @@
 ---
 
 
-# Antritt bei Lady Elara
-
 > Vor mehreren Jahrzehnten — die Stunde, in der Percy zum ersten Mal hinter ihren Stuhl trat.
 
 Die Familie hatte ihm am Morgen den Frack zurechtgelegt. Onkel Septimus richtete das Monokel persönlich, sagte zwei Sätze über Schicklichkeit und einen über die Pflicht und schickte ihn die kalten Treppen hinauf in den Westflügel.

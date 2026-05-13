@@ -3,8 +3,6 @@
 ---
 
 
-# Eismeer
-
 > Das **stumme Eismeer** im Westen — Noryndals einzige Verbindung zur Außenwelt, und gleichzeitig fast unbezwingbar.
 
 ## Geographie

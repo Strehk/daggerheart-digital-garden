@@ -3,8 +3,6 @@
 ---
 
 
-# Spieseltal
-
 > Schmales Tal am südlichen Rand Noryndals, eingerahmt vom [[04 - Welt/Orte/Regionen/Narbengebirge\|Narbengebirge]].
 
 ## Geographie

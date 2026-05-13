@@ -3,8 +3,6 @@
 ---
 
 
-# Hohle Klippen
-
 > Höhlendurchsetzte Klippen am Ausläufer des [[04 - Welt/Orte/Regionen/Narbengebirge\|Narbengebirge]]s, Heimat des [[04 - Welt/Begriffe & Glossar/Lichtpilz\|Lichtpilz]]es. Lebensader Noryndals.
 
 ## Was sie besonders macht

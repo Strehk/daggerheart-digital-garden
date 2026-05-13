@@ -3,8 +3,6 @@
 ---
 
 
-# Estmark
-
 > Siedlung am Mittellauf der [[04 - Welt/Orte/Schauplätze/Nordau\|Nordau]], halbwegs zwischen [[04 - Welt/Orte/Siedlungen/Kalthavn\|Kalthavn]] (Westen) und [[04 - Welt/Orte/Siedlungen/Vestangen\|Vestangen]] (Osten).
 
 ## Bedeutung

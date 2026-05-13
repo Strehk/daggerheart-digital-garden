@@ -3,8 +3,6 @@
 ---
 
 
-# Ascheklippen
-
 > Vulkanasche-bedeckte Klippen am Nordrand Noryndals, vor dem [[04 - Welt/Orte/Regionen/Feuermassiv\|Feuermassiv]].
 
 ## Was wir wissen

@@ -3,8 +3,6 @@
 ---
 
 
-# Kalte Nächte
-
 > Sonderregel im Campaign Frame *Das gefrorene Tal*.
 
 ## Regel

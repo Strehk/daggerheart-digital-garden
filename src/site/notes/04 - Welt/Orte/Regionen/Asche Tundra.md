@@ -3,8 +3,6 @@
 ---
 
 
-# Asche Tundra
-
 > Die kahle Ebene zwischen den [[04 - Welt/Orte/Schauplätze/Ascheklippen\|Ascheklippen]] und den [[04 - Welt/Orte/Regionen/Steinerne Stelen\|Steinernen Stelen]]. Mit Vulkanasche bedeckte Tundra.
 
 ## Geographie

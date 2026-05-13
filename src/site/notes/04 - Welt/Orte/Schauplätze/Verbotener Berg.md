@@ -3,8 +3,6 @@
 ---
 
 
-# Verbotener Berg
-
 > Einzeln stehender Gipfel mitten im [[04 - Welt/Orte/Regionen/Graues Gehölz\|Grauen Gehölz]]. Schon der Name suggeriert eine Geschichte.
 
 ## Was wir wissen

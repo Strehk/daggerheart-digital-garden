@@ -3,8 +3,6 @@
 ---
 
 
-# Der Aufstieg
-
 > Die Machtergreifung von [[03 - NPCs/Lillia Vess Rith'kar\|Lillia Vess Rith'kar]] im Jahr **334 der [[Winterzählung\|Winterzählung]]** — Beginn der heutigen [[04 - Welt/Geschichte & Mythen/Zeitrechnung\|Zeitrechnung]] und Anfang der Rith'kar-Herrschaft über Noryndal.
 
 ## Was gesichert ist

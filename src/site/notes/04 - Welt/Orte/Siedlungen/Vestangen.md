@@ -3,8 +3,6 @@
 ---
 
 
-# Vestangen
-
 > **Politisches Epizentrum** Noryndals. An den Hängen der [[04 - Welt/Orte/Regionen/Steinerne Stelen\|Steinernen Stelen]] im Osten. Über der Stadt thront [[04 - Welt/Orte/Schauplätze/Sternenfall\|Sternenfall]].
 
 ## Bedeutung

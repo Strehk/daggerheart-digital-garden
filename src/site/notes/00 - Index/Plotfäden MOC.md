@@ -3,8 +3,6 @@
 ---
 
 
-# Plotfäden MOC
-
 ## Aktive Plotfäden
 
 | Faden                                                                                                             | Priorität | Erstmals |

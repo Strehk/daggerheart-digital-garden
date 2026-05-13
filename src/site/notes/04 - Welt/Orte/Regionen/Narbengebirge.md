@@ -3,8 +3,6 @@
 ---
 
 
-# Narbengebirge
-
 > Steile Hänge und tiefe Schluchten im **Süden** Noryndals. Zerklüftet, voller verborgener Pfade.
 
 ## Geographie

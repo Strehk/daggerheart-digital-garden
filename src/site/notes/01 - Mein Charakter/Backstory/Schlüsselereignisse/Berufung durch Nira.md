@@ -3,8 +3,6 @@
 ---
 
 
-# Berufung durch Nira
-
 > Wie Lord Percival Ashwood zum Seraph wurde, ohne es zu merken — und wie Lady Elara es vor ihm verstand.
 
 Es gab kein Datum. Keine Vision, keinen Zusammenbruch im Knien, keinen Tempel. Es gab nur eine Tasse Schwarzen Tees mit einem Tropfen Honig, die an einem Wintermorgen zu lange nicht kalt wurde.

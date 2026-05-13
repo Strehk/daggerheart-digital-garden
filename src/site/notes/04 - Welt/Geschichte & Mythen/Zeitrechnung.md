@@ -3,8 +3,6 @@
 ---
 
 
-# Zeitrechnung
-
 In Noryndal existieren zwei Zeitrechnungen — eine alte, eine neue.
 
 ## Winterzählung

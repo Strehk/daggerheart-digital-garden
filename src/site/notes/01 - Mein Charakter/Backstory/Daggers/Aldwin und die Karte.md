@@ -3,8 +3,6 @@
 ---
 
 
-# Aldwin und die Karte
-
 > Ein junger Hofschreiber, mit dem Percy [[04 - Welt/Begriffe & Glossar/Frostfelder\|Frostfelder]] spielte. Vor Monaten gab er Percy eine handgezeichnete Karte mit den Worten: *„Falls du je nach Süden musst."* Aldwin ist seither verschwunden — niemand hat sich beschwert.
 
 Aldwin war ein dürrer junger Mann mit Tinte unter dem rechten Daumennagel und einem Lachen, das immer einen halben Atemzug zu spät kam. Er stand in [[04 - Welt/Orte/Schauplätze/Sternenfall\|Sternenfalls]] Schreibstube an einem der niedrigen Pulte, kopierte Lieferlisten, übersetzte gelegentlich aus den nördlichen Dialekten, und hatte nie eine Aufgabe, die im Hofkalender stand. Hofschreiber sind ersetzbar. Aldwin wusste das. Aldwin hat darüber Witze gemacht, die Percy nicht immer verstanden hat.

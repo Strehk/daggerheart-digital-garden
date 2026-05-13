@@ -3,8 +3,6 @@
 ---
 
 
-# Nygaard Außenposten
-
 > Festung im **Norden** Noryndals, am Übergang zur [[04 - Welt/Orte/Regionen/Asche Tundra\|Asche Tundra]].
 
 ## Was wir wissen

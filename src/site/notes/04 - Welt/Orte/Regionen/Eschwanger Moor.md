@@ -3,8 +3,6 @@
 ---
 
 
-# Eschwanger Moor
-
 > Sumpfgebiet östlich des [[04 - Welt/Orte/Regionen/Graues Gehölz\|Grauen Gehölzes]], am Fuß der [[04 - Welt/Orte/Regionen/Steinerne Stelen\|Steinernen Stelen]].
 
 ## Geographie

@@ -3,8 +3,6 @@
 ---
 
 
-# Frostfelder
-
 > Die in [[04 - Welt/Noryndal\|Noryndal]] gebräuchliche Adaption des Schachspiels. Standard-Schachregeln, lokales Figuren-Lexikon, eine optionale Hausregel.
 
 ## Figuren

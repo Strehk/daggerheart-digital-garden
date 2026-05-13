@@ -3,8 +3,6 @@
 ---
 
 
-# Streicher
-
 > Bewaffnete Seeleute, die von [[04 - Welt/Orte/Siedlungen/Kalthavn\|Kalthavn]] aus weit in den Süden segeln — handeln, plündern, und kommen mit begehrten Waren zurück.
 
 ## Charakter

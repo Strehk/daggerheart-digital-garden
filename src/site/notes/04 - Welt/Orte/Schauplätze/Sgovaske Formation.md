@@ -3,8 +3,6 @@
 ---
 
 
-# Sgovaske Formation
-
 > Markante Formation in der [[04 - Welt/Orte/Regionen/Asche Tundra\|Asche Tundra]] im Norden Noryndals.
 
 ## Was wir wissen

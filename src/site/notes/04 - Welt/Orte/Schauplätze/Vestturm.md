@@ -3,8 +3,6 @@
 ---
 
 
-# Vestturm
-
 > Wachturm im Westen, südlich von [[04 - Welt/Orte/Siedlungen/Frederiks-Holm\|Frederiks-Holm]] und nahe der Küste des [[04 - Welt/Orte/Regionen/Eismeer\|Eismeer]]s.
 
 ## Was wir wissen

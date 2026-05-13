@@ -3,8 +3,6 @@
 ---
 
 
-# Norre Nebel
-
 > Kleine Siedlung im Nordwesten, am Rand des [[04 - Welt/Orte/Regionen/Graues Gehölz\|Grauen Gehölzes]].
 
 ## Was wir wissen

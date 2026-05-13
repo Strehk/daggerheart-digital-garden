@@ -3,8 +3,6 @@
 ---
 
 
-# Gunst der Rith'kar
-
 > **Gruppenübergreifende Erfahrung** im Campaign Frame *Das gefrorene Tal*. Skala: **−5 bis +5**, Startwert **0**.
 
 ## Bedeutung der Werte

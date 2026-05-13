@@ -3,8 +3,6 @@
 ---
 
 
-# Tee-Vorrat aus Sternenfall
-
 > Der **beste Bestand der Festungs-Keller**, in einer kleinen Lederholz-Box mit dem Ashwood-Wappen.
 
 ## Erscheinung

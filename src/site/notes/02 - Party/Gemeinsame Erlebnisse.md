@@ -3,8 +3,6 @@
 ---
 
 
-# Gemeinsame Erlebnisse
-
 > Chronik der prägenden Gruppen-Momente. Pro Eintrag: kurze Beschreibung, Verlinkung zur Session, Konsequenzen.
 
 ## Vor der Kampagne (sofern vereinbart)

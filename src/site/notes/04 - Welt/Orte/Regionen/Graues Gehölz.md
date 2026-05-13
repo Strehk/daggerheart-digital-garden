@@ -3,8 +3,6 @@
 ---
 
 
-# Graues Gehölz
-
 > Wald im Nordwesten Noryndals — zwischen [[04 - Welt/Orte/Regionen/Asche Tundra\|Asche Tundra]] und [[04 - Welt/Orte/Siedlungen/Kalthavn\|Kalthavn]]. Durchquert vom [[04 - Welt/Orte/Schauplätze/Verbotener Berg\|Verbotenen Berg]].
 
 ## Geographie

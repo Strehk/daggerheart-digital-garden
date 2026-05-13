@@ -3,8 +3,6 @@
 ---
 
 
-# Pantheon-Übersicht
-
 > Drei Gottheiten in einem kosmischen Liebesdrama — und Religion ist eine der wenigen Quellen von Gemeinschaft, die der Griff der Rith'kar nicht erstickt hat.
 
 ## Die drei Gottheiten

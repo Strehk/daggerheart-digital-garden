@@ -3,8 +3,6 @@
 ---
 
 
-# Ziele & Motivationen
-
 > Conflict und Want stehen kanonisch in [[01 - Mein Charakter/Lord Percival Ashwood#Die drei Säulen\|den drei Säulen]] auf der Hauptseite. Hier: was Percy *jetzt* tut, der Need-Bogen, und was ihn antreibt bzw. einschränkt.
 
 ## Kurzfristig

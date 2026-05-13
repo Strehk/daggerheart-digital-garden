@@ -3,8 +3,6 @@
 ---
 
 
-# Charaktere MOC
-
 ## Party (PCs)
 
 | Charakter                                                               | Class   | Ancestry                                                           | Community |

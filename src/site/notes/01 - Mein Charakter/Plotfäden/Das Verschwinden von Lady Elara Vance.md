@@ -3,8 +3,6 @@
 ---
 
 
-# Das Verschwinden von Lady Elara Vance
-
 > [[03 - NPCs/Lady Elara Vance\|Lady Elara Vance]] reiste vor wenigen Wochen inkognito nach [[04 - Welt/Orte/Siedlungen/Fungaard\|Fungaard]], um [[01 - Mein Charakter/Plotfäden/Unregelmäßigkeiten in Fungaard\|Unregelmäßigkeiten in Fungaard]] zu untersuchen. Sie kehrte nie zurück.
 
 ## Der Stand der Dinge

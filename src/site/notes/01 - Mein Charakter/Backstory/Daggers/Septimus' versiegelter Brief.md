@@ -3,8 +3,6 @@
 ---
 
 
-# Septimus' versiegelter Brief
-
 > Vor der Abreise drückte der Familien-Senior Percy einen versiegelten Brief in die Hand mit der Anweisung, ihn *„im richtigen Moment"* zu öffnen. Percy weiß nicht, was darin steht. Der Brief liegt im Innenfutter seines Fracks.
 
 Onkel Septimus war schon damals Onkel Septimus — derselbe, der Percy vor Jahrzehnten das Monokel zurechtgerichtet hatte, [[01 - Mein Charakter/Backstory/Schlüsselereignisse/Antritt bei Lady Elara\|bevor er ihn die Treppen in den Westflügel hinaufschickte]]. Er hat sich seither kaum verändert. Wenn dann ist er noch härter, schmaler und aufmerksamer geworden — als hätte ihm das Alter nichts genommen außer dem, was ohnehin überflüssig war.

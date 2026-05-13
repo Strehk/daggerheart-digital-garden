@@ -3,8 +3,6 @@
 ---
 
 
-# Familie Rith'kar
-
 > Die herrschende Blutlinie Noryndals. Eine Hexer-Familie unter [[03 - NPCs/Lillia Vess Rith'kar\|Lillia Vess Rith'kar]], die seit 331 Jahren das Tal regiert.
 
 ## Selbstverständnis

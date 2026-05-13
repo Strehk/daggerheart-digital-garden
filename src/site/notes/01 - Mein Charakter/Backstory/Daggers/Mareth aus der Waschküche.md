@@ -3,8 +3,6 @@
 ---
 
 
-# Mareth aus der Waschküche
-
 > Eine wortkarge, völlig undeklarierte Vertrautheit, die Percy nie zugelassen hat. Sie ist vor Monaten gegangen — Gerücht: nach [[04 - Welt/Orte/Siedlungen/Fungaard\|Fungaard]], Familienangelegenheiten. Er hat es nie nachverfolgt.
 
 Mareth hatte die Waschküche im Untergeschoss von [[04 - Welt/Orte/Schauplätze/Sternenfall\|Sternenfall]] in der dritten Schicht. Die Zwergin war ungefähr zwei Jahre älter als Percy. Sie sprach selten. Wenn sie sprach, sprach sie kurz. In der Waschküche reichte das.

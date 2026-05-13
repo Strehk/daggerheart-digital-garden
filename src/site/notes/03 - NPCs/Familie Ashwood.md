@@ -3,8 +3,6 @@
 ---
 
 
-# Familie Ashwood
-
 > Eine seltene Linie von **Schnee-Adler-Aëthon**. Seit Generationen **Majordomus-Dynastie** in der Festung [[04 - Welt/Orte/Schauplätze/Sternenfall\|Sternenfall]].
 
 ## Rolle

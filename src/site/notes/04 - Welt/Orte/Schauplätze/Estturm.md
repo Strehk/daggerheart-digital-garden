@@ -3,8 +3,6 @@
 ---
 
 
-# Estturm
-
 > Wachturm östlich des [[04 - Welt/Orte/Regionen/Graues Gehölz\|Grauen Gehölzes]], am Übergang zur [[04 - Welt/Orte/Regionen/Steinerne Stelen\|Steinernen Stelen]].
 
 ## Was wir wissen

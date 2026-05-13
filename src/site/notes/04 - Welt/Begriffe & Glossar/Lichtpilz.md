@@ -3,8 +3,6 @@
 ---
 
 
-# Lichtpilz
-
 > Ein seltsamer Pilz, der **aus sich heraus Wärme und Licht erzeugt** — nicht zum Leben braucht, sondern produziert.
 
 ## Vorkommen
