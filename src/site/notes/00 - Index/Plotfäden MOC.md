@@ -3,7 +3,15 @@
 ---
 
 
-## Aktive Plotfäden
+## Übergreifende Plotfäden (Kampagne)
+
+| Faden                                                                                            | Priorität | Erstmals                                                                                            |
+| ------------------------------------------------------------------------------------------------ | --------- | --------------------------------------------------------------------------------------------------- |
+| [[06 - Plotfäden/Wer hat die Bestien eingeschmuggelt?\|Wer hat die Bestien eingeschmuggelt?]] | 1         | [[05 - Sessions/Session 01 - Morgenlicht über Kalthavn\|Session 01 - Morgenlicht über Kalthavn]] |
+
+{ .block-language-dataview}
+
+## Percys persönliche Plotfäden
 
 | Faden                                                                                                             | Priorität | Erstmals |
 | ----------------------------------------------------------------------------------------------------------------- | --------- | -------- |

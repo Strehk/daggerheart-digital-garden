@@ -13,3 +13,4 @@
 ## Bedeutung
 - Wichtigste Handelsroute des Tals.
 - Entlang ihres Verlaufs liegen die meisten Siedlungen.
+- In [[04 - Welt/Orte/Siedlungen/Kalthavn\|Kalthavn]] **teilt der Fluss die Stadt** in Nord- und Südufer — geografisch wie sozial und politisch. In der Mündung liegen die Inseln [[04 - Welt/Orte/Schauplätze/Schattenfels\|Schattenfels]] und [[04 - Welt/Orte/Schauplätze/Graholm\|Graholm]].

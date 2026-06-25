@@ -18,11 +18,11 @@
 ## Wo sie auftauchen
 - **[[04 - Welt/Orte/Siedlungen/Vestangen\|Vestangen]]:** ständige Präsenz im Schatten von [[04 - Welt/Orte/Schauplätze/Sternenfall\|Sternenfall]].
 - **[[04 - Welt/Orte/Siedlungen/Fungaard\|Fungaard]]:** überwacht die Lebensmittelproduktion auf den Pilzfeldern.
-- **[[04 - Welt/Orte/Siedlungen/Kalthavn\|Kalthavn]]:** im Konflikt mit [[04 - Welt/Fraktionen/Tuchmacher\|Tuchmacher]] und [[04 - Welt/Fraktionen/Streicher\|Streicher]]n.
+- **[[04 - Welt/Orte/Siedlungen/Kalthavn\|Kalthavn]]:** Kasernen im [[04 - Welt/Orte/Schauplätze/Glutviertel\|Glutviertel]]; im Konflikt mit [[04 - Welt/Fraktionen/Tuchmacher\|Tuchmacher]] und [[04 - Welt/Fraktionen/Streicher\|Streicher]]n.
 - **Außenposten:** [[04 - Welt/Orte/Schauplätze/Nygaard Außenposten\|Nygaard Außenposten]], die Wachtürme.
 
 ## Bekannte Mitglieder
-- *(noch keine namentlich bekannt)*
+- [[03 - NPCs/Hauptmann Sven Svenson\|Hauptmann Sven Svenson]] — Hauptmann in [[04 - Welt/Orte/Siedlungen/Kalthavn\|Kalthavn]] (großer, blonder Soldat, Muttermal am Hals).
 
 ## Begegnungen
 *(Backlinks zu Sessions erscheinen unten.)*

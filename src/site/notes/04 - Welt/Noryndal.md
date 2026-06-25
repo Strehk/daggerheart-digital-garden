@@ -51,7 +51,7 @@ Tempel sind in allen Siedlungen Orte der Zusammenkunft. Auf der Durchreise gibt 
 - Die [[04 - Welt/Fraktionen/Tuchmacher\|Tuchmacher]] gewinnen an Einfluss.
 - Widerständische Tendenzen werden nicht mehr restlos niedergeschlagen.
 - Gerüchte, dass die Rith'kar ihre Aufmerksamkeit auf etwas anderes als reine Herrschaft fokussieren.
-- Eine ungreifbare Spannung — *manche munkeln, ein großes Ereignis stehe unmittelbar bevor.*
+- Eine ungreifbare Spannung — *manche munkeln, ein großes Ereignis stehe unmittelbar bevor.* (Vgl. das Eröffnungs-Cinematic [[04 - Welt/Geschichte & Mythen/Der Prolog\|Der Prolog]] und die [[04 - Welt/Geschichte & Mythen/Elenyára\|Elenyára]]-Konjunktion.)
 
 ## Vor dem Winter
 Es gab ein Davor — siehe [[04 - Welt/Geschichte & Mythen/Die alte Welt\|Die alte Welt]]. Ruinen sind über das ganze Tal verstreut, das Wissen aber kollektiv verloren.

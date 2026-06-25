@@ -18,5 +18,8 @@
 - Religiöse Gruppen Zyllans haben Überschneidung mit den [[Slyborne\|Slyborne]] und gerüchteweise mit den [[04 - Welt/Fraktionen/Tuchmacher\|Tuchmacher]]n.
 - Steht in fundamentaler Spannung zu [[04 - Welt/Pantheon & Religion/Talos\|Talos]] und [[04 - Welt/Pantheon & Religion/Nira\|Nira]] — und doch ist es Zyllans Existenz, die diese Welt überhaupt am Funktionieren hält.
 
+## Tempel & Orte
+- **Haupttempel auf [[04 - Welt/Orte/Schauplätze/Schattenfels\|Schattenfels]]** in [[04 - Welt/Orte/Siedlungen/Kalthavn\|Kalthavn]]: in Kerzenlicht gehüllt, von **hunderten Raben** in Besitz genommen — religiöses Epizentrum der Hafenstadt.
+
 ## Auftauchen in der Kampagne
 *(Backlinks zu Sessions / NPCs erscheinen unten.)*

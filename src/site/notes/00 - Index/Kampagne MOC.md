@@ -29,8 +29,9 @@
 
 ## Letzte Session
 
-| Session | Datum |
-| ------- | ----- |
+| Session                                                                               | Datum         |
+| ------------------------------------------------------------------------------------- | ------------- |
+| [[05 - Sessions/Session 02 - Die krumme Laterne\|Session 02 - Die krumme Laterne]] | June 09, 2026 |
 
 { .block-language-dataview}
 

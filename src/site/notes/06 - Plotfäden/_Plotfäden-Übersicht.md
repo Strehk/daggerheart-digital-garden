@@ -5,7 +5,8 @@
 
 # Plotfäden-Übersicht
 
-| Faden | Status | Priorität |
-| ----- | ------ | --------- |
+| Faden                                                                                            | Status | Priorität |
+| ------------------------------------------------------------------------------------------------ | ------ | --------- |
+| [[06 - Plotfäden/Wer hat die Bestien eingeschmuggelt?\|Wer hat die Bestien eingeschmuggelt?]] | open   | 1         |
 
 { .block-language-dataview}

@@ -11,7 +11,8 @@ Die Rith'kar regieren das Tal nicht stumm aus [[04 - Welt/Orte/Schauplätze/Ster
 ## Struktur
 - **Matriarchin:** [[03 - NPCs/Lillia Vess Rith'kar\|Lillia Vess Rith'kar]] — seit 331 Jahren an der Macht; viele halten sie für unsterblich.
 - **Sitz:** Festung [[04 - Welt/Orte/Schauplätze/Sternenfall\|Sternenfall]] über [[04 - Welt/Orte/Siedlungen/Vestangen\|Vestangen]].
-- **Herrschaftsprinzip:** Blutlinie — alle größeren Siedlungen werden von Familienmitgliedern geführt.
+- **Weitere Festung:** [[04 - Welt/Orte/Schauplätze/Burg Graustein\|Burg Graustein]] an der Steilküste bei [[04 - Welt/Orte/Siedlungen/Kalthavn\|Kalthavn]] — abgeschotteter Rückzugsort.
+- **Herrschaftsprinzip:** Blutlinie — alle größeren Siedlungen werden von Familienmitgliedern geführt; in [[04 - Welt/Orte/Siedlungen/Kalthavn\|Kalthavn]] sitzt die Familie auf der Insel [[04 - Welt/Orte/Schauplätze/Graholm\|Graholm]] bei Verwaltung und Gerichten.
 - **Bewaffneter Arm:** Die [[04 - Welt/Fraktionen/Eisige Faust\|Eisige Faust]].
 
 ## Magische Grundlage
