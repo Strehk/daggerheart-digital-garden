@@ -12,8 +12,9 @@
 - Blondes, krauses Haar.
 
 ## Auftreten & Verhalten
-- Schnappte sich aus der Streicher-Kiste einen **Stoffbeutel** und floh damit in ein **Fischerboot** — wir bekamen ihn erst durch **Teamwork** zu fassen (siehe [[05 - Sessions/Session 02 - Die krumme Laterne\|Session 02 - Die krumme Laterne]]).
-- Beim Verhör **zerbrach er eine grüne Tonscheibe mit einer Rune** und **verschwand** spurlos. (#offene-frage)
+- Schnappte sich aus der Streicher-Kiste einen **Stoffbeutel** und floh damit in ein **Fischerboot** — wir bekamen ihn erst durch **Teamwork** zu fassen (Verfolgungsjagd, DC 14; siehe [[05 - Sessions/Session 02 - Die krumme Laterne\|Session 02 - Die krumme Laterne]]).
+- Sagte, er würde **„das Richtige"** tun.
+- Als die [[04 - Welt/Fraktionen/Eisige Faust\|Eisige Faust]] ([[03 - NPCs/Hauptmann Sven Svenson\|Hauptmann Sven Svenson]]) [[02 - Party/Raksha\|Raksha]] an der Schulter packte, **verschwand Mads mithilfe einer grünen Runen-Scheibe** spurlos. (#offene-frage)
 
 ## Was wir wissen
 - Heißt **Mads**.
@@ -31,6 +32,7 @@
 ## Vermutungen / Theorien
 > [!note] Vermutung
 > - Wer hat einem Kind eine **magische Teleport-Scheibe** in die Hand gegeben — und ihn auf genau diese Laternen-Kiste angesetzt?
+> - Mads glaubt, **„das Richtige"** zu tun — wurde er überzeugt/instrumentalisiert, oder verfolgt er ein eigenes Ziel mit den Laternen?
 > - Arbeitet Mads für den **Kontakt im schwarzen Mantel** (siehe [[03 - NPCs/Kapitän Arrik\|Kapitän Arrik]] / [[04 - Welt/Fraktionen/Streicher\|Streicher]]), für die [[04 - Welt/Fraktionen/Tuchmacher\|Tuchmacher]] oder für sich selbst?
 
 ## Notizen

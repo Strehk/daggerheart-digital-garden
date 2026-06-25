@@ -11,7 +11,7 @@ _(stub — alles, was wir wissen, stammt bislang von Arion selbst)_
 
 ## Was wir wissen
 - Liegt **außerhalb Noryndals**; [[02 - Party/Arion\|Arion]] wurde von dort von **[[03 - NPCs/Kapitän Arrik\|Kapitän Arrik]]** ([[04 - Welt/Fraktionen/Streicher\|Streicher]]) über See nach Noryndal gebracht.
-- [[02 - Party/Arion\|Arion]] **möchte zurück** — ihm sagen „das Wetter und die Menschen" Noryndals nicht zu.
+- [[02 - Party/Arion\|Arion]] **möchte zurück** — wegen **Sonne, Gemüse und Frieden**; das raue Noryndal sagt ihm nicht zu.
 
 > [!note] Vermutung
 > - Wie weit ist Solentia entfernt, und was verbindet es mit Noryndal außer den Streicher-Routen?

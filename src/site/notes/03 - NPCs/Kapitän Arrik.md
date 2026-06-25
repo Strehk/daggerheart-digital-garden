@@ -17,8 +17,9 @@
 ## Was wir wissen
 - Kapitän der [[04 - Welt/Fraktionen/Streicher\|Streicher]].
 - Brachte **[[02 - Party/Arion\|Arion]]** über See von **[[04 - Welt/Orte/Siedlungen/Solentia\|Solentia]]** nach Noryndal.
-- Die ausgebrochenen Bestien-Kisten der [[04 - Welt/Orte/Schauplätze/Nira Skibbet\|Nira Skibbet]] wurden **auf Empfehlung der [[04 - Welt/Orte/Schauplätze/Burg Graustein\|Burg Graustein]]** an Bord genommen — **nicht das erste Mal**, dass für diesen **Kontakt** Kisten außerhalb der Burg mitgenommen wurden.
-- Zum **Kontakt**: hüllt sich stets in einen **schwarzen Mantel**, **klein** (Halbling? Zwerg? Gnom? Goblin? …), **vermutlich männlich**, stammt **von außerhalb der Burg**. Die **Verbindung** zu ihm wurde jedoch **von Menschen innerhalb der Burg Graustein** hergestellt. Arrik **weiß nicht, wie man den Kontakt aufnimmt**.
+- Die **Kisten** wurden von **jemandem auf der [[04 - Welt/Orte/Schauplätze/Burg Graustein\|Burg Graustein]]** beauftragt — **nicht das erste Mal** für diesen **Kontakt**.
+- **Logistik:** Die Kisten sollten auf einen **Wagen geladen** und **per Boot abgeholt** werden.
+- Zum **Kontakt**: **eher klein**, hüllt sich in einen **schwarzen Mantel**, ein **„Typ" (männlich)**, gibt nur **kurze Antworten** (Halbling? Zwerg? Gnom? Goblin? …), stammt **von außerhalb der Burg**. Die **Verbindung** zu ihm wurde jedoch **von Leuten innerhalb der Burg Graustein** hergestellt. Arrik **weiß nicht, wie man den Kontakt aktiv aufnimmt**.
 
 ## Beziehungen
 - **Verbündete / Bekannte:** [[04 - Welt/Fraktionen/Streicher\|Streicher]]

@@ -11,7 +11,7 @@
 - _(stub — ergänzen)_
 
 ## Persönlichkeit & Stimme
-- Sehnt sich zurück nach **[[04 - Welt/Orte/Siedlungen/Solentia\|Solentia]]** — „wegen des Wetters und der Menschen" passt ihm das raue Noryndal nicht.
+- Sehnt sich zurück nach **[[04 - Welt/Orte/Siedlungen/Solentia\|Solentia]]** — wegen **Sonne, Gemüse und Frieden**; das raue Noryndal sagt ihm nicht zu.
 
 ## Class & Domains
 - **Class:** **Bard**

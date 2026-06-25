@@ -5,12 +5,12 @@
 
 # Bernstein-Laterne
 
-> Auf den ersten Blick **gewöhnliche Handlaternen** — doch das Metall ist **um das Glas geschmolzen**, und im dicht verschlossenen Inneren glüht in gelber Flüssigkeit ein **warmer, leuchtender „Bernstein"**.
+> Auf den ersten Blick **gewöhnliche Handlaternen** — doch das Metall ist **um das Glas geschmolzen**, und im Inneren glüht in gelber Flüssigkeit ein **bernsteinfarbiger, gezackter, warmer Kristall**.
 
 ## Erscheinung
-- Form einer **normalen Handlaterne**: glänzendes Metallgerüst, Glas.
+- Form einer **Handlaterne**: **Bronze-Metallgerüst** + Glas.
 - Das **Metall ist um das Glas herum geschmolzen** — die Laterne wirkt **dicht verschlossen**.
-- Im Inneren: **gelbe Flüssigkeit** mit einem **unförmigen, dunklen „Bernstein"**, der **leuchtet und warm ist**.
+- Im Inneren: **gelbe Flüssigkeit** mit einem **bernsteinfarbigen, gezackten Kristall**, der **leuchtet und warm ist**.
 
 ## Wirkung / Mechanik
 - Gibt **Licht und Wärme** ab, ohne Flamme oder offensichtliche Energiequelle. (#offene-frage — Magie? Alchemie? Bestien-Bezug?)

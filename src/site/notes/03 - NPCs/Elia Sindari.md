@@ -18,7 +18,8 @@
 
 ## Was wir wissen
 - Kam **vor 15 Jahren** nach Noryndal.
-- **Tochter wohlhabender Kaufleute.**
+- **Tochter eines wohlhabenden Kaufmanns** — daher der **Lady**-Titel.
+- Sagt: Die **Bestien-Ware war kein Zufall** — so etwas wird **häufiger geschmuggelt**.
 - **Angebot:** Finden wir heraus, **wer die Bestien warum hergeschmuggelt** hat, bekommen wir im Gegenzug **etwas** — ausdrücklich **kein Geld**. Was genau, ließ sie offen; wir haben das Angebot **noch nicht angenommen**. (siehe [[06 - Plotfäden/Wer hat die Bestien eingeschmuggelt?\|Wer hat die Bestien eingeschmuggelt?]])
 
 ## Beziehungen

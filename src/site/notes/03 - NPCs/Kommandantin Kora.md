@@ -16,7 +16,8 @@
 ## Was wir wissen
 - Hat uns eröffnet, dass **so bald keine Schiffe den Hafen verlassen werden** — präzisiert (Session 2): **mindestens 2 Monate** darf kein Schiff mehr auslaufen (außer reine Fischerboote). 
 - Führt die Streicher-Präsenz im Hafen an; deren Kisten und Ladungen stehen unter ihrer Aufsicht.
-- Behauptet, die ausgebrochenen Bestien seien **„Blindfracht"** gewesen — also unwissentlich/ungewollt mitgeführt. (#offene-frage — glaubwürdig?)
+- Behauptet, die ausgebrochenen Bestien seien **„Blindfracht"/„Blindfahrt"** gewesen — also unwissentlich/ungewollt mitgeführt — und meint, vielleicht wisse **[[03 - NPCs/Kapitän Arrik\|Kapitän Arrik]]** mehr. (#offene-frage — glaubwürdig?)
+- **[[02 - Party/Yuki\|Yuki]]** bot an, etwas für die Streicher zu unternehmen — Kora zeigte sich **offen für irgendwann**.
 
 ## Beziehungen
 - **Verbündete / Bekannte:** [[04 - Welt/Fraktionen/Streicher\|Streicher]]

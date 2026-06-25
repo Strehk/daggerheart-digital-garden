@@ -12,9 +12,11 @@
 - Spur führt über **[[03 - NPCs/Kapitän Arrik\|Kapitän Arrik]]** zu einem **Kontakt im schwarzen Mantel**, dessen Verbindung **aus der [[04 - Welt/Orte/Schauplätze/Burg Graustein\|Burg Graustein]]** hergestellt wurde.
 
 ## Was wir wissen
-- Die Bestien kamen in **Holzkisten** der [[04 - Welt/Orte/Schauplätze/Nira Skibbet\|Nira Skibbet]] (Streicherschiff). [[03 - NPCs/Kommandantin Kora\|Kommandantin Kora]] nennt sie **„Blindfracht"**.
-- [[03 - NPCs/Kapitän Arrik\|Kapitän Arrik]]: Die Kisten wurden **auf Empfehlung von [[04 - Welt/Orte/Schauplätze/Burg Graustein\|Burg Graustein]]** an Bord genommen — **nicht zum ersten Mal** für diesen Kontakt.
-- Der **Kontakt**: hüllt sich stets in einen **schwarzen Mantel**, **klein** (Halbling? Zwerg? Gnom? Goblin?), **vermutlich männlich**, **von außerhalb der Burg** — die **Verbindung** wurde aber **von Menschen innerhalb der Burg** hergestellt. Arrik weiß **nicht, wie man den Kontakt aufnimmt**.
+- Die Bestien kamen in **Holzkisten** der [[04 - Welt/Orte/Schauplätze/Nira Skibbet\|Nira Skibbet]] (Streicherschiff). [[03 - NPCs/Kommandantin Kora\|Kommandantin Kora]] nennt sie **„Blindfracht"/„Blindfahrt"** und verweist auf [[03 - NPCs/Kapitän Arrik\|Kapitän Arrik]].
+- **[[03 - NPCs/Elia Sindari\|Lady Sindari]]** sagt: Die Bestien-Ware war **kein Zufall** — so etwas wird **häufiger geschmuggelt**.
+- [[03 - NPCs/Kapitän Arrik\|Kapitän Arrik]]: Die Kisten wurden von **jemandem auf der [[04 - Welt/Orte/Schauplätze/Burg Graustein\|Burg Graustein]]** **beauftragt** — **nicht zum ersten Mal** für diesen Kontakt.
+- **Logistik:** Die Kisten sollten auf einen **Wagen geladen** und **per Boot abgeholt** werden.
+- Der **Kontakt**: **eher klein**, **schwarzer Mantel**, **männlich**, **kurze Antworten**, **von außerhalb der Burg** — die **Verbindung** wurde aber **von Leuten innerhalb der Burg** hergestellt. Arrik weiß **nicht, wie man den Kontakt aufnimmt**.
 - In den Kisten lagen auch die **[[07 - Items/Bernstein-Laterne\|Bernstein-Laternen]]** (mind. 9 Stück).
 - **[[03 - NPCs/Mads\|Mads]]** hatte einen Beutel davon gestohlen und entkam mit einer **magischen Rune-Scheibe**.
 - Bei einem der toten Fischer: ein **blutverschmierter Zettel** — eine **Wegbeschreibung zu einem Lagerhaus mit mehreren Eingängen**, nicht vollständig lesbar.
