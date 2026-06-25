@@ -9,7 +9,7 @@
 
 | Nr. | Datum         | Session                                                                                             |
 | --- | ------------- | --------------------------------------------------------------------------------------------------- |
-| 1   | \-            | [[05 - Sessions/Session 01 - Morgenlicht über Kalthavn\|Session 01 - Morgenlicht über Kalthavn]] |
+| 1   | May 14, 2026  | [[05 - Sessions/Session 01 - Morgenlicht über Kalthavn\|Session 01 - Morgenlicht über Kalthavn]] |
 | 2   | June 09, 2026 | [[05 - Sessions/Session 02 - Die krumme Laterne\|Session 02 - Die krumme Laterne]]               |
 
 { .block-language-dataview}
