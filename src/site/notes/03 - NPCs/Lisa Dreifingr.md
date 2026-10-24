@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs/lisa-dreifingr/","tags":["npc","kalthavn","hafen"],"dg-note-properties":{"type":"npc","role":"neutral","ancestry":"Halfling","community":null,"location":"[[04 - Welt/Orte/Schauplätze/Südhavn\|Südhavn]]","affiliations":[],"status":"active","first_seen":"[[Session 02 - Die krumme Laterne]]","tags":["npc","kalthavn","hafen"]}}
+{"dg-publish":true,"permalink":"/03-np-cs/lisa-dreifingr/","tags":["npc","kalthavn","hafen"],"dg-note-properties":{"type":"npc","role":"neutral","ancestry":"Halfling","community":null,"location":"[[04 - Welt/Orte/Schauplätze/Südhavn]]","affiliations":[],"status":"active","first_seen":"[[05 - Sessions/Session 02 - Die krumme Laterne]]","tags":["npc","kalthavn","hafen"]}}
 ---
 
 

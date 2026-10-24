@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-welt/fraktionen/streicher/","tags":["fraktion","see","kalthavn"],"dg-note-properties":{"type":"faction","alignment":"ambivalent","scope":"regional","headquarters":"[[04 - Welt/Orte/Siedlungen/Kalthavn\|Kalthavn]]","status":"active","tags":["fraktion","see","kalthavn"]}}
+{"dg-publish":true,"permalink":"/04-welt/fraktionen/streicher/","tags":["fraktion","see","kalthavn"],"dg-note-properties":{"type":"faction","alignment":"ambivalent","scope":"regional","headquarters":"[[04 - Welt/Orte/Siedlungen/Kalthavn]]","status":"active","tags":["fraktion","see","kalthavn"]}}
 ---
 
 
@@ -29,6 +29,7 @@
 ## Aktuelle Lage
 - **Hafen-Stillstand:** Auf Regierungsbeschluss darf **mindestens 2 Monate** kein Schiff mehr auslaufen, das **nicht ausschließlich der Fischerei** dient (so [[03 - NPCs/Hauptmann Sven Svenson\|Hauptmann Sven Svenson]] / [[03 - NPCs/Kommandantin Kora\|Kommandantin Kora]]). Grund unbekannt. (#offene-frage)
 - **Schmuggel-Verstrickung:** Die ausgebrochenen Bestien-Kisten kamen über einen **Kontakt im schwarzen Mantel**, vermittelt **aus der [[04 - Welt/Orte/Schauplätze/Burg Graustein\|Burg Graustein]]** — siehe [[06 - Plotfäden/Wer hat die Bestien eingeschmuggelt?\|Wer hat die Bestien eingeschmuggelt?]].
+- **Im Visier der [[04 - Welt/Fraktionen/Geschwisterschaft des Sommers\|Geschwisterschaft des Sommers]]:** [[03 - NPCs/Elia Sindari\|Lady Sindari]] nennt die Fracht „**gefährliche Schmuggelware der Streicher**" (die [[07 - Items/Bernstein-Laterne\|Laternen]] für die Rith'kar-Expedition) und ließ die Kiste am Hafen überfallen ([[05 - Sessions/Session 06 - Geschwisterschaft des Sommers\|Session 6]]).
 
 ## Mein Verhältnis
 - **[[05 - Sessions/Session 01 - Morgenlicht über Kalthavn\|Session 1]]:** Wir haben Fischer getötet, die eine **Streicher-Kiste** stehlen wollten, und beim Bestien-Ausbruch am Kai eingegriffen.

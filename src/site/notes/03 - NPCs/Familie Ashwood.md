@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs/familie-ashwood/","tags":["npc","familie","ashwood","sternenfall"],"dg-note-properties":{"type":"npc","role":"ally","ancestry":"Schnee-Adler-Aëthon (Mixed: Faerie + Firbolg/Zwerg)","community":"Highborne","location":"[[04 - Welt/Orte/Schauplätze/Sternenfall\|Sternenfall]]","affiliations":["[[Familie Rith'kar]]"],"status":"active","tags":["npc","familie","ashwood","sternenfall"]}}
+{"dg-publish":true,"permalink":"/03-np-cs/familie-ashwood/","tags":["npc","familie","ashwood","sternenfall"],"dg-note-properties":{"type":"npc","role":"ally","ancestry":"Schnee-Adler-Aëthon (Mixed: Faerie + Firbolg/Zwerg)","community":"Highborne","location":"[[04 - Welt/Orte/Schauplätze/Sternenfall]]","affiliations":["[[04 - Welt/Fraktionen/Familie Rith'kar]]"],"status":"active","tags":["npc","familie","ashwood","sternenfall"]}}
 ---
 
 
@@ -17,6 +17,8 @@
 
 ## Berühmte Familienmitglieder
 - [[01 - Mein Charakter/Lord Percival Ashwood\|Lord Percival Ashwood]] — Spielercharakter; Majordomus von [[03 - NPCs/Lady Elara Vance\|Lady Elara Vance]].
+- [[03 - NPCs/Jonathan Ashwood\|Jonathan Ashwood]] — Percys Bruder; **Majordomus der [[04 - Welt/Orte/Schauplätze/Burg Graustein\|Burg Graustein]]** bei [[04 - Welt/Orte/Siedlungen/Kalthavn\|Kalthavn]] ([[05 - Sessions/Session 03 - Audienz auf Burg Graustein\|Session 3]]).
+- Percy hat **27 Geschwister** — die Familie stellt also vermutlich Majordomus-Personal für mehr als nur [[04 - Welt/Orte/Schauplätze/Sternenfall\|Sternenfall]].
 - *(weitere Familienmitglieder noch zu definieren — siehe [[01 - Mein Charakter/Backstory/Beziehungen vor der Kampagne\|Beziehungen vor der Kampagne]])*
 
 ## Verbindung zur Pantheon

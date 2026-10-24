@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-welt/orte/schauplaetze/nordhavn/","tags":["ort","kalthavn","hafen"],"dg-note-properties":{"type":"location","location_type":"landmark","region":"Westen","factions":[],"status":"active","first_seen":"[[Session 01 - Morgenlicht über Kalthavn]]","tags":["ort","kalthavn","hafen"]}}
+{"dg-publish":true,"permalink":"/04-welt/orte/schauplaetze/nordhavn/","tags":["ort","kalthavn","hafen"],"dg-note-properties":{"type":"location","location_type":"landmark","region":"Westen","factions":[],"status":"active","first_seen":"[[05 - Sessions/Session 01 - Morgenlicht über Kalthavn]]","tags":["ort","kalthavn","hafen"]}}
 ---
 
 

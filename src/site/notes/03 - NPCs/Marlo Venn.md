@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs/marlo-venn/","tags":["npc","kalthavn","wirt"],"dg-note-properties":{"type":"npc","role":"neutral","ancestry":null,"community":null,"location":"[[04 - Welt/Orte/Schauplätze/Purpurner Krug\|Purpurner Krug]]","affiliations":[],"status":"active","first_seen":"[[Session 02 - Die krumme Laterne]]","tags":["npc","kalthavn","wirt"]}}
+{"dg-publish":true,"permalink":"/03-np-cs/marlo-venn/","tags":["npc","kalthavn","wirt"],"dg-note-properties":{"type":"npc","role":"neutral","ancestry":null,"community":null,"location":"[[04 - Welt/Orte/Schauplätze/Purpurner Krug]]","affiliations":[],"status":"active","first_seen":"[[05 - Sessions/Session 02 - Die krumme Laterne]]","tags":["npc","kalthavn","wirt"]}}
 ---
 
 

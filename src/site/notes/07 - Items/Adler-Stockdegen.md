@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-items/adler-stockdegen/","tags":["item","waffe","percy","ashwood"],"dg-note-properties":{"type":"item","item_type":"weapon","rarity":"edel","owner":"[[Lord Percival Ashwood]]","location":"[[Lord Percival Ashwood]]","first_seen":null,"status":"active","tags":["item","waffe","percy","ashwood"]}}
+{"dg-publish":true,"permalink":"/07-items/adler-stockdegen/","tags":["item","waffe","percy","ashwood"],"dg-note-properties":{"type":"item","item_type":"weapon","rarity":"edel","owner":"[[01 - Mein Charakter/Lord Percival Ashwood]]","location":"[[01 - Mein Charakter/Lord Percival Ashwood]]","first_seen":null,"status":"active","tags":["item","waffe","percy","ashwood"]}}
 ---
 
 

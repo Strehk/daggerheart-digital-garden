@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-items/silbernes-teetablett/","tags":["item","waffe","utility","percy","tee"],"dg-note-properties":{"type":"item","item_type":"weapon-utility","rarity":"ungewöhnlich","owner":"[[Lord Percival Ashwood]]","location":"[[Lord Percival Ashwood]]","first_seen":null,"status":"active","tags":["item","waffe","utility","percy","tee"]}}
+{"dg-publish":true,"permalink":"/07-items/silbernes-teetablett/","tags":["item","waffe","utility","percy","tee"],"dg-note-properties":{"type":"item","item_type":"weapon-utility","rarity":"ungewöhnlich","owner":"[[01 - Mein Charakter/Lord Percival Ashwood]]","location":"[[01 - Mein Charakter/Lord Percival Ashwood]]","first_seen":null,"status":"active","tags":["item","waffe","utility","percy","tee"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-welt/orte/schauplaetze/nygaard-aussenposten/","tags":["außenposten","norden"],"dg-note-properties":{"type":"location","location_type":"fortress","region":"Norden","factions":["[[Eisige Faust]]"],"status":"active","tags":["außenposten","norden"]}}
+{"dg-publish":true,"permalink":"/04-welt/orte/schauplaetze/nygaard-aussenposten/","tags":["außenposten","norden"],"dg-note-properties":{"type":"location","location_type":"fortress","region":"Norden","factions":["[[04 - Welt/Fraktionen/Eisige Faust]]"],"status":"active","tags":["außenposten","norden"]}}
 ---
 
 

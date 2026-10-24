@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-welt/orte/siedlungen/kalthavn/","tags":["siedlung","hafen","kalthavn"],"dg-note-properties":{"type":"location","location_type":"settlement","region":"Westen","factions":["[[04 - Welt/Fraktionen/Tuchmacher\|Tuchmacher]]","[[04 - Welt/Fraktionen/Streicher\|Streicher]]","[[04 - Welt/Fraktionen/Familie Rith'kar\|Familie Rith'kar]]","[[04 - Welt/Fraktionen/Eisige Faust\|Eisige Faust]]"],"status":"active","first_seen":"[[Session 01 - Morgenlicht über Kalthavn]]","tags":["siedlung","hafen","kalthavn"]}}
+{"dg-publish":true,"permalink":"/04-welt/orte/siedlungen/kalthavn/","tags":["siedlung","hafen","kalthavn"],"dg-note-properties":{"type":"location","location_type":"settlement","region":"Westen","factions":["[[04 - Welt/Fraktionen/Tuchmacher]]","[[04 - Welt/Fraktionen/Streicher]]","[[04 - Welt/Fraktionen/Familie Rith'kar]]","[[04 - Welt/Fraktionen/Eisige Faust]]"],"status":"active","first_seen":"[[05 - Sessions/Session 01 - Morgenlicht über Kalthavn]]","tags":["siedlung","hafen","kalthavn"]}}
 ---
 
 
@@ -46,7 +46,12 @@ Der Fluss [[04 - Welt/Orte/Schauplätze/Nordau\|Nordau]] teilt Kalthavn nicht nu
 - [[04 - Welt/Orte/Schauplätze/Burg Graustein\|Burg Graustein]] — Festung der [[04 - Welt/Fraktionen/Familie Rith'kar\|Familie Rith'kar]] abseits an der Steilküste.
 
 ## Wichtige Orte
-- *(Tuchmacher-Unterschlupf — Vermutungs-Seite anlegen, sobald gefunden)*
+- [[04 - Welt/Orte/Schauplätze/Purpurner Krug\|Purpurner Krug]] — unser Gasthaus ([[04 - Welt/Orte/Schauplätze/Bürgerliche Wiege\|Bürgerliche Wiege]]).
+- [[04 - Welt/Orte/Schauplätze/Dem Winter zum Trotz\|Dem Winter zum Trotz]] — Abenteurerladen am **Brunnenplatz** mit illegaler **Bestienarena im Keller**.
+- [[04 - Welt/Orte/Schauplätze/Sonnentheater\|Sonnentheater]] — Theater in der [[04 - Welt/Orte/Schauplätze/Bürgerliche Wiege\|Bürgerliche Wiege]].
+- [[04 - Welt/Orte/Schauplätze/Die krumme Laterne\|Die krumme Laterne]] · [[04 - Welt/Orte/Schauplätze/Der lange Kiel\|Der lange Kiel]] — Gasthaus bzw. Streicher-Treffpunkt.
+- Lady Sindaris Stadthaus auf [[04 - Welt/Orte/Schauplätze/Graholm\|Graholm]].
+- **Nachts werden die Tore** (nach außen und zwischen den Stadtteilen, z. B. nach [[04 - Welt/Orte/Schauplätze/Graholm\|Graholm]]) **abgeschlossen**.
 
 ## Sicherheitslage
 - [[04 - Welt/Fraktionen/Eisige Faust\|Eisige Faust]] präsent (Kasernen im [[04 - Welt/Orte/Schauplätze/Glutviertel\|Glutviertel]]), aber weniger erdrückend als in Vestangen — zu viel Geld läuft hier durch.

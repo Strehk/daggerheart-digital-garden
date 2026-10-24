@@ -39,4 +39,5 @@ Der GM kann ein **Fear** ausgeben, um einen entsprechenden **Malus** auf einen A
 
 | Datum / Session | Wert | Was hat es ausgelöst? |
 |---|---|---|
-|  |  |  |
+| [[05 - Sessions/Session 03 - Audienz auf Burg Graustein\|Session 3]] | *(mit GM klären)* | Auftrag des Statthalters [[03 - NPCs/Aramir Rith'kar\|Aramir Rith'kar]] angenommen; [[07 - Items/Schreiben des Statthalters\|Schreiben des Statthalters]] als „Inspektor\*innen von Burg Graustein" erhalten. |
+| [[05 - Sessions/Session 06 - Geschwisterschaft des Sommers\|Session 6]] | *(mit GM klären — Risiko)* | Percy bietet [[03 - NPCs/Elia Sindari\|Lady Sindari]] ([[04 - Welt/Fraktionen/Geschwisterschaft des Sommers\|Geschwisterschaft des Sommers]]) an, ein **Kontakt in die Rith'kar-Strukturen** zu sein, und beschreibt seine Nähe zur Familie als „dem Anschein nach". Kommt das heraus, dürfte der Wert **deutlich fallen**. |

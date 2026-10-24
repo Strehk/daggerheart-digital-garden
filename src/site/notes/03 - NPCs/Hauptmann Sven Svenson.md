@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs/hauptmann-sven-svenson/","tags":["npc","eisige-faust","kalthavn","hauptmann"],"dg-note-properties":{"type":"npc","role":"neutral","ancestry":null,"community":null,"location":"[[04 - Welt/Orte/Siedlungen/Kalthavn\|Kalthavn]]","affiliations":["[[04 - Welt/Fraktionen/Eisige Faust\|Eisige Faust]]"],"status":"active","first_seen":"[[Session 02 - Die krumme Laterne]]","tags":["npc","eisige-faust","kalthavn","hauptmann"]}}
+{"dg-publish":true,"permalink":"/03-np-cs/hauptmann-sven-svenson/","tags":["npc","eisige-faust","kalthavn","hauptmann"],"dg-note-properties":{"type":"npc","role":"neutral","ancestry":null,"community":null,"location":"[[04 - Welt/Orte/Siedlungen/Kalthavn]]","affiliations":["[[04 - Welt/Fraktionen/Eisige Faust]]"],"status":"active","first_seen":"[[05 - Sessions/Session 02 - Die krumme Laterne]]","tags":["npc","eisige-faust","kalthavn","hauptmann"]}}
 ---
 
 
@@ -14,6 +14,7 @@
 ## Auftreten & Verhalten
 - **Unterbrach unser Verhör** des Jungen [[03 - NPCs/Mads\|Mads]] am Hafen.
 - Begleitete die Gruppe danach zum [[04 - Welt/Orte/Schauplätze/Purpurner Krug\|Purpurner Krug]].
+- **Crashte die Streicher-Party** am [[04 - Welt/Orte/Schauplätze/Der lange Kiel\|langen Kiel]] ([[05 - Sessions/Session 03 - Audienz auf Burg Graustein\|Session 3]]), um uns zu [[03 - NPCs/Aramir Rith'kar\|Aramir Rith'kar]] auf die [[04 - Welt/Orte/Schauplätze/Burg Graustein\|Burg Graustein]] zu bestellen.
 
 ## Was wir wissen
 - Hauptmann der [[04 - Welt/Fraktionen/Eisige Faust\|Eisige Faust]] vor Ort.

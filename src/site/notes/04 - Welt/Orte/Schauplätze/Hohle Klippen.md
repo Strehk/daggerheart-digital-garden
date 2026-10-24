@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-welt/orte/schauplaetze/hohle-klippen/","tags":["klippen","lichtpilz","fungaard"],"dg-note-properties":{"type":"location","location_type":"landmark","region":"Narbengebirge","factions":["[[Familie Rith'kar]]","[[04 - Welt/Fraktionen/Eisige Faust\|Eisige Faust]]"],"status":"active","tags":["klippen","lichtpilz","fungaard"]}}
+{"dg-publish":true,"permalink":"/04-welt/orte/schauplaetze/hohle-klippen/","tags":["klippen","lichtpilz","fungaard"],"dg-note-properties":{"type":"location","location_type":"landmark","region":"Narbengebirge","factions":["[[04 - Welt/Fraktionen/Familie Rith'kar]]","[[04 - Welt/Fraktionen/Eisige Faust]]"],"status":"active","tags":["klippen","lichtpilz","fungaard"]}}
 ---
 
 

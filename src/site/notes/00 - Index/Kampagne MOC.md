@@ -29,17 +29,17 @@
 
 ## Letzte Session
 
-| Session                                                                               | Datum         |
-| ------------------------------------------------------------------------------------- | ------------- |
-| [[05 - Sessions/Session 02 - Die krumme Laterne\|Session 02 - Die krumme Laterne]] | June 09, 2026 |
+| Session                                                                                                     | Datum              |
+| ----------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[05 - Sessions/Session 06 - Geschwisterschaft des Sommers\|Session 06 - Geschwisterschaft des Sommers]] | September 17, 2026 |
 
 { .block-language-dataview}
 
 ## Offene Plotfäden
 
 - [[01 - Mein Charakter/Plotfäden/Das Verschwinden von Lady Elara Vance\|Das Verschwinden von Lady Elara Vance]]
-- [[01 - Mein Charakter/Plotfäden/Unregelmäßigkeiten in Fungaard\|Unregelmäßigkeiten in Fungaard]]
 - [[01 - Mein Charakter/Plotfäden/Die Sommer-Teeblätter\|Die Sommer-Teeblätter]]
+- [[01 - Mein Charakter/Plotfäden/Unregelmäßigkeiten in Fungaard\|Unregelmäßigkeiten in Fungaard]]
 
 { .block-language-dataview}
 

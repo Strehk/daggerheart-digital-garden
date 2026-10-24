@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-welt/orte/schauplaetze/glutviertel/","tags":["ort","kalthavn","stadtteil"],"dg-note-properties":{"type":"location","location_type":"landmark","region":"Westen","factions":["[[04 - Welt/Fraktionen/Eisige Faust\|Eisige Faust]]"],"status":"active","first_seen":"[[Session 01 - Morgenlicht über Kalthavn]]","tags":["ort","kalthavn","stadtteil"]}}
+{"dg-publish":true,"permalink":"/04-welt/orte/schauplaetze/glutviertel/","tags":["ort","kalthavn","stadtteil"],"dg-note-properties":{"type":"location","location_type":"landmark","region":"Westen","factions":["[[04 - Welt/Fraktionen/Eisige Faust]]"],"status":"active","first_seen":"[[05 - Sessions/Session 01 - Morgenlicht über Kalthavn]]","tags":["ort","kalthavn","stadtteil"]}}
 ---
 
 

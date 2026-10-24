@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs/lady-elara-vance/","tags":["npc","vermisst","sternenfall","rith'kar"],"dg-note-properties":{"type":"npc","role":"ally","ancestry":null,"community":"Highborne","location":"[[04 - Welt/Orte/Schauplätze/Sternenfall\|Sternenfall]]","affiliations":["[[Familie Rith'kar]]"],"status":"unknown","first_seen":null,"tags":["npc","vermisst","sternenfall","rith'kar"]}}
+{"dg-publish":true,"permalink":"/03-np-cs/lady-elara-vance/","tags":["npc","vermisst","sternenfall","rith'kar"],"dg-note-properties":{"type":"npc","role":"ally","ancestry":null,"community":"Highborne","location":"[[04 - Welt/Orte/Schauplätze/Sternenfall]]","affiliations":["[[04 - Welt/Fraktionen/Familie Rith'kar]]"],"status":"unknown","first_seen":null,"tags":["npc","vermisst","sternenfall","rith'kar"]}}
 ---
 
 

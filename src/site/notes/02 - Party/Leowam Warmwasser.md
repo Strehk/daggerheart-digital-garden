@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-party/leowam-warmwasser/","tags":["pc","party","halbling","warlock","ehe-vermittler"],"dg-note-properties":{"type":"pc","class":"Warlock","subclass":null,"ancestry":"Mixed (Halfling + Human)","community":null,"domains":[],"level":1,"hope":2,"fear":0,"status":"active","tags":["pc","party","halbling","warlock","ehe-vermittler"]}}
+{"dg-publish":true,"permalink":"/02-party/leowam-warmwasser/","tags":["pc","party","halbling","warlock","ehe-vermittler"],"dg-note-properties":{"type":"pc","class":"Warlock","subclass":"Pact of the Wrathful","ancestry":"Mixed (Halfling + Human)","community":"Loreborne","domains":["Dread","Grace"],"level":1,"hope":2,"fear":0,"status":"active","tags":["pc","party","halbling","warlock","ehe-vermittler"]}}
 ---
 
 
@@ -25,12 +25,12 @@ Leom ist ein hingebungsvoller **Ehe-Vermittler**, dessen Leidenschaft Gefühlen 
 
 ## Class & Domains
 - **Class:** Warlock
-- **Subclass:** *(noch zu klären)*
-- **Domains:** *(noch zu klären)*
+- **Subclass:** **Pact of the Wrathful**
+- **Domains:** **Dread** + **Grace**
 
 ## Ancestry & Community
 - **Ancestry:** Mixed — **Halfling + Human**.
-- **Community:** *(noch zu klären — der Reise-Lebensstil legt z. B. Wanderborne nahe, ist aber noch offen)*
+- **Community:** **[[Loreborne\|Loreborne]]**
 
 ## Stats
 | Agility | Strength | Finesse | Instinct | Presence | Knowledge |
@@ -47,11 +47,18 @@ Leom ist ein hingebungsvoller **Ehe-Vermittler**, dessen Leidenschaft Gefühlen 
 *(durch Mixed Ancestry zu wählen)*
 
 ## Klassen-Features
-*(siehe Daggerheart-Klassen-Material — Warlock)*
+*(siehe Daggerheart-Klassen-Material — Warlock, Pact of the Wrathful)*
+- **Voice of Dread** — setzte [[03 - NPCs/Mads\|Mads]] im Sonnentheater fest ([[05 - Sessions/Session 05 - Das Sonnentheater\|Session 5]]).
 
 ## Equipment
 - **Zepter** — sein magischer Fokus *und* Werkzeug zur Verteidigung.
 - *(weiteres Equipment offen)*
+
+## Bisher in Sessions
+- **[[05 - Sessions/Session 02 - Die krumme Laterne\|Session 2]]:** Mit [[02 - Party/Raksha\|Raksha]] bei [[03 - NPCs/Elia Sindari\|Lady Sindari]] in der [[04 - Welt/Orte/Schauplätze/Die krumme Laterne\|Die krumme Laterne]]; *Repair Armor* beim Short Rest.
+- **[[05 - Sessions/Session 04 - Dem Winter zum Trotz\|Session 4]]:** Schaute beim Long Rest wütend einen Stein an. Fand am Hafen auf dem herrenlosen Karren den **Zettel mit der Fahrer-Anweisung** (zwei Kisten nach [[04 - Welt/Orte/Schauplätze/Dem Winter zum Trotz\|Dem Winter zum Trotz]]) und das **eingebrannte Tuchmacher-Symbol** auf einem Kistensplitter. Nahm [[03 - NPCs/Hendrik Vaul\|Hendrik Vaul]] als **Ehevermittlungs-Kunden** auf (53, strukturiert, kocht gut, sucht „mehr Verrücktheit").
+- **[[05 - Sessions/Session 05 - Das Sonnentheater\|Session 5]]:** Setzt [[03 - NPCs/Mads\|Mads]] im Büro des [[04 - Welt/Orte/Schauplätze/Sonnentheater\|Sonnentheater]]s mit **Voice of Dread** fest (*restrained*) — worauf Harandil die Battlebox wirft.
+- **[[05 - Sessions/Session 06 - Geschwisterschaft des Sommers\|Session 6]]:** Überzeugungsarbeit bei [[03 - NPCs/Harandil Blitz\|Harandil Blitz]]. **Sieht, wie Percy und [[03 - NPCs/Elia Sindari\|Lady Sindari]] sich einigen — hört aber nichts.**
 
 ## Backstory & Verbindungen
 - Verbindungen zur Party: siehe [[02 - Party/Connections\|Connections]].

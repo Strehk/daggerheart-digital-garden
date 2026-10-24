@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-welt/orte/siedlungen/fungaard/","tags":["siedlung","fungaard","lichtpilz"],"dg-note-properties":{"type":"location","location_type":"settlement","region":"Narbengebirge","factions":["[[Familie Rith'kar]]","[[Eisige Faust]]"],"status":"active","tags":["siedlung","fungaard","lichtpilz"]}}
+{"dg-publish":true,"permalink":"/04-welt/orte/siedlungen/fungaard/","tags":["siedlung","fungaard","lichtpilz"],"dg-note-properties":{"type":"location","location_type":"settlement","region":"Narbengebirge","factions":["[[04 - Welt/Fraktionen/Familie Rith'kar]]","[[04 - Welt/Fraktionen/Eisige Faust]]"],"status":"active","tags":["siedlung","fungaard","lichtpilz"]}}
 ---
 
 

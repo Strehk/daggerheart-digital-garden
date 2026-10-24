@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-welt/orte/schauplaetze/nordturm/","tags":["turm","wachposten"],"dg-note-properties":{"type":"location","location_type":"fortress","region":"Norden","factions":["[[Eisige Faust]]"],"status":"active","tags":["turm","wachposten"]}}
+{"dg-publish":true,"permalink":"/04-welt/orte/schauplaetze/nordturm/","tags":["turm","wachposten"],"dg-note-properties":{"type":"location","location_type":"fortress","region":"Norden","factions":["[[04 - Welt/Fraktionen/Eisige Faust]]"],"status":"active","tags":["turm","wachposten"]}}
 ---
 
 

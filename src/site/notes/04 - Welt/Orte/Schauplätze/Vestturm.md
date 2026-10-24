@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-welt/orte/schauplaetze/vestturm/","tags":["turm","wachposten"],"dg-note-properties":{"type":"location","location_type":"fortress","region":"Westen","factions":["[[Eisige Faust]]"],"status":"active","tags":["turm","wachposten"]}}
+{"dg-publish":true,"permalink":"/04-welt/orte/schauplaetze/vestturm/","tags":["turm","wachposten"],"dg-note-properties":{"type":"location","location_type":"fortress","region":"Westen","factions":["[[04 - Welt/Fraktionen/Eisige Faust]]"],"status":"active","tags":["turm","wachposten"]}}
 ---
 
 

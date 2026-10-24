@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs/kapitaen-arrik/","tags":["npc","streicher","kalthavn"],"dg-note-properties":{"type":"npc","role":"neutral","ancestry":"Zwerg","community":"Seaborne","location":"[[Kalthavn]]","affiliations":["[[04 - Welt/Fraktionen/Streicher\|Streicher]]"],"status":"active","first_seen":"[[Session 01 - Morgenlicht über Kalthavn]]","aliases":["Kapitän Arik"],"tags":["npc","streicher","kalthavn"]}}
+{"dg-publish":true,"permalink":"/03-np-cs/kapitaen-arrik/","tags":["npc","streicher","kalthavn"],"dg-note-properties":{"type":"npc","role":"neutral","ancestry":"Zwerg","community":"Seaborne","location":"[[04 - Welt/Orte/Siedlungen/Kalthavn]]","affiliations":["[[04 - Welt/Fraktionen/Streicher]]"],"status":"active","first_seen":"[[05 - Sessions/Session 01 - Morgenlicht über Kalthavn]]","aliases":["Kapitän Arik"],"tags":["npc","streicher","kalthavn"]}}
 ---
 
 

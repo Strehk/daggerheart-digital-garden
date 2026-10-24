@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-welt/orte/schauplaetze/schattenfels/","tags":["ort","kalthavn","insel","tempel"],"dg-note-properties":{"type":"location","location_type":"landmark","region":"Westen","factions":["[[04 - Welt/Pantheon & Religion/Zyllan\|Zyllan]]"],"status":"active","first_seen":"[[Session 01 - Morgenlicht über Kalthavn]]","tags":["ort","kalthavn","insel","tempel"]}}
+{"dg-publish":true,"permalink":"/04-welt/orte/schauplaetze/schattenfels/","tags":["ort","kalthavn","insel","tempel"],"dg-note-properties":{"type":"location","location_type":"landmark","region":"Westen","factions":["[[04 - Welt/Pantheon & Religion/Zyllan]]"],"status":"active","first_seen":"[[05 - Sessions/Session 01 - Morgenlicht über Kalthavn]]","tags":["ort","kalthavn","insel","tempel"]}}
 ---
 
 

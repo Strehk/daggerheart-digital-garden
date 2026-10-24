@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-welt/orte/schauplaetze/sudeturm/","tags":["turm","wachposten"],"dg-note-properties":{"type":"location","location_type":"fortress","region":"Süden","factions":["[[Eisige Faust]]"],"status":"active","tags":["turm","wachposten"]}}
+{"dg-publish":true,"permalink":"/04-welt/orte/schauplaetze/sudeturm/","tags":["turm","wachposten"],"dg-note-properties":{"type":"location","location_type":"fortress","region":"Süden","factions":["[[04 - Welt/Fraktionen/Eisige Faust]]"],"status":"active","tags":["turm","wachposten"]}}
 ---
 
 

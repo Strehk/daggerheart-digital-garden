@@ -5,8 +5,9 @@
 
 # Plotfäden-Übersicht
 
-| Faden                                                                                            | Status | Priorität |
-| ------------------------------------------------------------------------------------------------ | ------ | --------- |
-| [[06 - Plotfäden/Wer hat die Bestien eingeschmuggelt?\|Wer hat die Bestien eingeschmuggelt?]] | open   | 1         |
+| Faden                                                                                                          | Status | Priorität |
+| -------------------------------------------------------------------------------------------------------------- | ------ | --------- |
+| [[06 - Plotfäden/Wer hat die Bestien eingeschmuggelt?\|Wer hat die Bestien eingeschmuggelt?]]               | open   | 1         |
+| [[06 - Plotfäden/Sonnenmünzen und Lady Sindaris Gemeinschaft\|Sonnenmünzen und Lady Sindaris Gemeinschaft]] | open   | 2         |
 
 { .block-language-dataview}

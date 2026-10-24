@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-items/tee-vorrat-aus-sternenfall/","tags":["item","tee","percy"],"dg-note-properties":{"type":"item","item_type":"consumable","rarity":"gewöhnlich","owner":"[[Lord Percival Ashwood]]","location":"[[Lord Percival Ashwood]]","first_seen":null,"status":"active","tags":["item","tee","percy"]}}
+{"dg-publish":true,"permalink":"/07-items/tee-vorrat-aus-sternenfall/","tags":["item","tee","percy"],"dg-note-properties":{"type":"item","item_type":"consumable","rarity":"gewöhnlich","owner":"[[01 - Mein Charakter/Lord Percival Ashwood]]","location":"[[01 - Mein Charakter/Lord Percival Ashwood]]","first_seen":null,"status":"active","tags":["item","tee","percy"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-welt/orte/schauplaetze/nira-skibbet/","tags":["ort","kalthavn","schiff","streicher"],"dg-note-properties":{"type":"location","location_type":"water","region":"Westen","factions":["[[04 - Welt/Fraktionen/Streicher\|Streicher]]"],"status":"active","first_seen":"[[05 - Sessions/Session 01 - Morgenlicht über Kalthavn\|Session 01 - Morgenlicht über Kalthavn]]","tags":["ort","kalthavn","schiff","streicher"]}}
+{"dg-publish":true,"permalink":"/04-welt/orte/schauplaetze/nira-skibbet/","tags":["ort","kalthavn","schiff","streicher"],"dg-note-properties":{"type":"location","location_type":"water","region":"Westen","factions":["[[04 - Welt/Fraktionen/Streicher]]"],"status":"active","first_seen":"[[05 - Sessions/Session 01 - Morgenlicht über Kalthavn]]","tags":["ort","kalthavn","schiff","streicher"]}}
 ---
 
 

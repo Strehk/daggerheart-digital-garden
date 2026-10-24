@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-welt/orte/schauplaetze/scherbenviertel/","tags":["ort","kalthavn","stadtteil"],"dg-note-properties":{"type":"location","location_type":"landmark","region":"Westen","factions":[],"status":"active","first_seen":"[[Session 01 - Morgenlicht über Kalthavn]]","tags":["ort","kalthavn","stadtteil"]}}
+{"dg-publish":true,"permalink":"/04-welt/orte/schauplaetze/scherbenviertel/","tags":["ort","kalthavn","stadtteil"],"dg-note-properties":{"type":"location","location_type":"landmark","region":"Westen","factions":[],"status":"active","first_seen":"[[05 - Sessions/Session 01 - Morgenlicht über Kalthavn]]","tags":["ort","kalthavn","stadtteil"]}}
 ---
 
 

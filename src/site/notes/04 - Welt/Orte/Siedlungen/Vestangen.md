@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-welt/orte/siedlungen/vestangen/","tags":["siedlung","hauptstadt","vestangen"],"dg-note-properties":{"type":"location","location_type":"settlement","region":"Steinerne Stelen","factions":["[[04 - Welt/Fraktionen/Familie Rith'kar\|Familie Rith'kar]]","[[Eisige Faust]]"],"status":"active","tags":["siedlung","hauptstadt","vestangen"]}}
+{"dg-publish":true,"permalink":"/04-welt/orte/siedlungen/vestangen/","tags":["siedlung","hauptstadt","vestangen"],"dg-note-properties":{"type":"location","location_type":"settlement","region":"Steinerne Stelen","factions":["[[04 - Welt/Fraktionen/Familie Rith'kar]]","[[04 - Welt/Fraktionen/Eisige Faust]]"],"status":"active","tags":["siedlung","hauptstadt","vestangen"]}}
 ---
 
 

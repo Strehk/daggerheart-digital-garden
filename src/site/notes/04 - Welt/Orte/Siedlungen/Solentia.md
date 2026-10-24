@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-welt/orte/siedlungen/solentia/","tags":["ort","außenwelt"],"dg-note-properties":{"type":"location","location_type":"region","region":"Außerhalb Noryndals","factions":[],"status":"active","first_seen":"[[Session 02 - Die krumme Laterne]]","tags":["ort","außenwelt"]}}
+{"dg-publish":true,"permalink":"/04-welt/orte/siedlungen/solentia/","tags":["ort","außenwelt"],"dg-note-properties":{"type":"location","location_type":"region","region":"Außerhalb Noryndals","factions":[],"status":"active","first_seen":"[[05 - Sessions/Session 02 - Die krumme Laterne]]","tags":["ort","außenwelt"]}}
 ---
 
 

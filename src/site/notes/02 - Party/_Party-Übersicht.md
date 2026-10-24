@@ -5,13 +5,13 @@
 
 # Party-Übersicht
 
-| Charakter                                                               | Class   | Ancestry                                                           | Community | Level |
-| ----------------------------------------------------------------------- | ------- | ------------------------------------------------------------------ | --------- | ----- |
-| [[02 - Party/Arion\|Arion]]                                          | Bard    | \-                                                                 | \-        | 1     |
-| [[02 - Party/Leowam Warmwasser\|Leowam Warmwasser]]                  | Warlock | Mixed (Halfling + Human)                                           | \-        | 1     |
-| [[01 - Mein Charakter/Lord Percival Ashwood\|Lord Percival Ashwood]] | Seraph  | Mixed (Faerie + Firbolg/Zwerg, reflavored als Schnee-Adler-Aëthon) | Highborne | 1     |
-| [[02 - Party/Raksha\|Raksha]]                                        | \-      | \-                                                                 | \-        | 1     |
-| [[02 - Party/Yuki\|Yuki]]                                            | \-      | Katari                                                             | \-        | 1     |
+| Charakter                                                               | Class    | Ancestry                                                           | Community   | Level |
+| ----------------------------------------------------------------------- | -------- | ------------------------------------------------------------------ | ----------- | ----- |
+| [[02 - Party/Arion\|Arion]]                                          | Bard     | Human                                                              | Wanderborne | 1     |
+| [[02 - Party/Leowam Warmwasser\|Leowam Warmwasser]]                  | Warlock  | Mixed (Halfling + Human)                                           | Loreborne   | 1     |
+| [[01 - Mein Charakter/Lord Percival Ashwood\|Lord Percival Ashwood]] | Seraph   | Mixed (Faerie + Firbolg/Zwerg, reflavored als Schnee-Adler-Aëthon) | Highborne   | 1     |
+| [[02 - Party/Raksha\|Raksha]]                                        | Guardian | Mixed (Orc + Human)                                                | Orderborne  | 1     |
+| [[02 - Party/Yuki\|Yuki]]                                            | Ranger   | Katari                                                             | Wildborne   | 1     |
 
 { .block-language-dataview}
 

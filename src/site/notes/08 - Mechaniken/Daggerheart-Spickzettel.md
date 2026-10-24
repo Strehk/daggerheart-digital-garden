@@ -24,4 +24,4 @@
 - 
 
 ## Eigene Merker
-- 
+- **Währung:** 1 Bag = 10 Handfuls Gold ([[05 - Sessions/Session 05 - Das Sonnentheater\|Session 5]]).

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs/lillia-vess-rith-kar/","tags":["npc","rith'kar","hexenkönigin","matriarchin"],"dg-note-properties":{"type":"npc","role":"enemy","ancestry":null,"community":"Highborne","location":"[[04 - Welt/Orte/Schauplätze/Sternenfall\|Sternenfall]]","affiliations":["[[04 - Welt/Fraktionen/Familie Rith'kar\|Familie Rith'kar]]","[[04 - Welt/Fraktionen/Eisige Faust\|Eisige Faust]]"],"status":"active","first_seen":null,"tags":["npc","rith'kar","hexenkönigin","matriarchin"]}}
+{"dg-publish":true,"permalink":"/03-np-cs/lillia-vess-rith-kar/","tags":["npc","rith'kar","hexenkönigin","matriarchin"],"dg-note-properties":{"type":"npc","role":"enemy","ancestry":null,"community":"Highborne","location":"[[04 - Welt/Orte/Schauplätze/Sternenfall]]","affiliations":["[[04 - Welt/Fraktionen/Familie Rith'kar]]","[[04 - Welt/Fraktionen/Eisige Faust]]"],"status":"active","first_seen":null,"tags":["npc","rith'kar","hexenkönigin","matriarchin"]}}
 ---
 
 

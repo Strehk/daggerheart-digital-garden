@@ -12,69 +12,73 @@
 
 ## Orte
 
-| Ort                                                                        | Typ        | Region              |
-| -------------------------------------------------------------------------- | ---------- | ------------------- |
-| [[04 - Welt/Orte/Regionen/Asche Tundra\|Asche Tundra]]                  | region     | Norden              |
-| [[04 - Welt/Orte/Schauplätze/Ascheklippen\|Ascheklippen]]               | landmark   | Norden              |
-| [[04 - Welt/Orte/Schauplätze/Burg Graustein\|Burg Graustein]]           | fortress   | Westen              |
-| [[04 - Welt/Orte/Schauplätze/Bürgerliche Wiege\|Bürgerliche Wiege]]     | landmark   | Westen              |
-| [[04 - Welt/Orte/Schauplätze/Der lange Kiel\|Der lange Kiel]]           | landmark   | Westen              |
-| [[04 - Welt/Orte/Schauplätze/Die krumme Laterne\|Die krumme Laterne]]   | landmark   | Westen              |
-| [[04 - Welt/Orte/Siedlungen/Drakenby\|Drakenby]]                        | settlement | Norden              |
-| [[04 - Welt/Orte/Regionen/Eismeer\|Eismeer]]                            | region     | Westen              |
-| [[04 - Welt/Orte/Regionen/Eschwanger Moor\|Eschwanger Moor]]            | region     | Ost-zentral         |
-| [[04 - Welt/Orte/Siedlungen/Estmark\|Estmark]]                          | settlement | Zentral             |
-| [[04 - Welt/Orte/Schauplätze/Estturm\|Estturm]]                         | fortress   | Ost-zentral         |
-| [[04 - Welt/Orte/Regionen/Feuermassiv\|Feuermassiv]]                    | region     | Norden              |
-| [[04 - Welt/Orte/Siedlungen/Frederiks-Holm\|Frederiks-Holm]]            | settlement | Eismeer             |
-| [[04 - Welt/Orte/Siedlungen/Fungaard\|Fungaard]]                        | settlement | Narbengebirge       |
-| [[04 - Welt/Orte/Schauplätze/Geyserquellen\|Geyserquellen]]             | landmark   | Süden               |
-| [[04 - Welt/Orte/Schauplätze/Glutviertel\|Glutviertel]]                 | landmark   | Westen              |
-| [[04 - Welt/Orte/Schauplätze/Graholm\|Graholm]]                         | landmark   | Westen              |
-| [[04 - Welt/Orte/Regionen/Graues Gehölz\|Graues Gehölz]]                | region     | Nordwest            |
-| [[04 - Welt/Orte/Schauplätze/Hohle Klippen\|Hohle Klippen]]             | landmark   | Narbengebirge       |
-| [[04 - Welt/Orte/Siedlungen/Kalthavn\|Kalthavn]]                        | settlement | Westen              |
-| [[04 - Welt/Orte/Schauplätze/Kristallklippen\|Kristallklippen]]         | landmark   | Westen              |
-| [[04 - Welt/Orte/Schauplätze/Krystalkap\|Krystalkap]]                   | landmark   | Eismeer             |
-| [[04 - Welt/Orte/Regionen/Lydenwald\|Lydenwald]]                        | region     | Süd-zentral         |
-| [[04 - Welt/Orte/Schauplätze/Lydstrom\|Lydstrom]]                       | water      | Süden               |
-| [[04 - Welt/Orte/Siedlungen/Lydsund\|Lydsund]]                          | settlement | Westen              |
-| [[04 - Welt/Orte/Regionen/Narbengebirge\|Narbengebirge]]                | region     | Süden               |
-| [[04 - Welt/Orte/Schauplätze/Nebelacker\|Nebelacker]]                   | landmark   | Westen              |
-| [[04 - Welt/Orte/Schauplätze/Nira Skibbet\|Nira Skibbet]]               | water      | Westen              |
-| [[04 - Welt/Orte/Schauplätze/Nordau\|Nordau]]                           | water      | Zentral             |
-| [[04 - Welt/Orte/Schauplätze/Nordhavn\|Nordhavn]]                       | landmark   | Westen              |
-| [[04 - Welt/Orte/Schauplätze/Nordturm\|Nordturm]]                       | fortress   | Norden              |
-| [[04 - Welt/Orte/Siedlungen/Norre Nebel\|Norre Nebel]]                  | settlement | Nordwest            |
-| [[04 - Welt/Orte/Schauplätze/Nygaard Außenposten\|Nygaard Außenposten]] | fortress   | Norden              |
-| [[04 - Welt/Orte/Schauplätze/Purpurner Krug\|Purpurner Krug]]           | landmark   | Westen              |
-| [[04 - Welt/Orte/Schauplätze/Salzmine\|Salzmine]]                       | landmark   | Salzwüste           |
-| [[04 - Welt/Orte/Regionen/Salzwüste\|Salzwüste]]                        | region     | Südost              |
-| [[04 - Welt/Orte/Schauplätze/Schattenfels\|Schattenfels]]               | landmark   | Westen              |
-| [[04 - Welt/Orte/Schauplätze/Scherbenviertel\|Scherbenviertel]]         | landmark   | Westen              |
-| [[04 - Welt/Orte/Schauplätze/Sgovaske Formation\|Sgovaske Formation]]   | landmark   | Norden              |
-| [[04 - Welt/Orte/Siedlungen/Solentia\|Solentia]]                        | region     | Außerhalb Noryndals |
-| [[04 - Welt/Orte/Regionen/Spieseltal\|Spieseltal]]                      | region     | Süden               |
-| [[04 - Welt/Orte/Regionen/Steinerne Stelen\|Steinerne Stelen]]          | region     | Osten               |
-| [[04 - Welt/Orte/Schauplätze/Sternenfall\|Sternenfall]]                 | fortress   | Steinerne Stelen    |
-| [[04 - Welt/Orte/Schauplätze/Sudeturm\|Sudeturm]]                       | fortress   | Süden               |
-| [[04 - Welt/Orte/Schauplätze/Südhavn\|Südhavn]]                         | landmark   | Westen              |
-| [[04 - Welt/Orte/Schauplätze/Tuscofall Heiligtum\|Tuscofall Heiligtum]] | ruin       | Steinerne Stelen    |
-| [[04 - Welt/Orte/Schauplätze/Verbotener Berg\|Verbotener Berg]]         | mountain   | Graues Gehölz       |
-| [[04 - Welt/Orte/Siedlungen/Vestangen\|Vestangen]]                      | settlement | Steinerne Stelen    |
-| [[04 - Welt/Orte/Schauplätze/Vestturm\|Vestturm]]                       | fortress   | Westen              |
+| Ort                                                                          | Typ        | Region              |
+| ---------------------------------------------------------------------------- | ---------- | ------------------- |
+| [[04 - Welt/Orte/Regionen/Asche Tundra\|Asche Tundra]]                    | region     | Norden              |
+| [[04 - Welt/Orte/Schauplätze/Ascheklippen\|Ascheklippen]]                 | landmark   | Norden              |
+| [[04 - Welt/Orte/Schauplätze/Burg Graustein\|Burg Graustein]]             | fortress   | Westen              |
+| [[04 - Welt/Orte/Schauplätze/Bürgerliche Wiege\|Bürgerliche Wiege]]       | landmark   | Westen              |
+| [[04 - Welt/Orte/Schauplätze/Dem Winter zum Trotz\|Dem Winter zum Trotz]] | landmark   | Westen              |
+| [[04 - Welt/Orte/Schauplätze/Der lange Kiel\|Der lange Kiel]]             | landmark   | Westen              |
+| [[04 - Welt/Orte/Schauplätze/Die krumme Laterne\|Die krumme Laterne]]     | landmark   | Westen              |
+| [[04 - Welt/Orte/Siedlungen/Drakenby\|Drakenby]]                          | settlement | Norden              |
+| [[04 - Welt/Orte/Regionen/Eismeer\|Eismeer]]                              | region     | Westen              |
+| [[04 - Welt/Orte/Regionen/Eschwanger Moor\|Eschwanger Moor]]              | region     | Ost-zentral         |
+| [[04 - Welt/Orte/Siedlungen/Estmark\|Estmark]]                            | settlement | Zentral             |
+| [[04 - Welt/Orte/Schauplätze/Estturm\|Estturm]]                           | fortress   | Ost-zentral         |
+| [[04 - Welt/Orte/Regionen/Feuermassiv\|Feuermassiv]]                      | region     | Norden              |
+| [[04 - Welt/Orte/Siedlungen/Frederiks-Holm\|Frederiks-Holm]]              | settlement | Eismeer             |
+| [[04 - Welt/Orte/Siedlungen/Fungaard\|Fungaard]]                          | settlement | Narbengebirge       |
+| [[04 - Welt/Orte/Schauplätze/Geyserquellen\|Geyserquellen]]               | landmark   | Süden               |
+| [[04 - Welt/Orte/Schauplätze/Glutviertel\|Glutviertel]]                   | landmark   | Westen              |
+| [[04 - Welt/Orte/Schauplätze/Graholm\|Graholm]]                           | landmark   | Westen              |
+| [[04 - Welt/Orte/Regionen/Graues Gehölz\|Graues Gehölz]]                  | region     | Nordwest            |
+| [[04 - Welt/Orte/Schauplätze/Hohle Klippen\|Hohle Klippen]]               | landmark   | Narbengebirge       |
+| [[04 - Welt/Orte/Siedlungen/Kalthavn\|Kalthavn]]                          | settlement | Westen              |
+| [[04 - Welt/Orte/Schauplätze/Kristallklippen\|Kristallklippen]]           | landmark   | Westen              |
+| [[04 - Welt/Orte/Schauplätze/Krystalkap\|Krystalkap]]                     | landmark   | Eismeer             |
+| [[04 - Welt/Orte/Regionen/Lydenwald\|Lydenwald]]                          | region     | Süd-zentral         |
+| [[04 - Welt/Orte/Schauplätze/Lydstrom\|Lydstrom]]                         | water      | Süden               |
+| [[04 - Welt/Orte/Siedlungen/Lydsund\|Lydsund]]                            | settlement | Westen              |
+| [[04 - Welt/Orte/Regionen/Narbengebirge\|Narbengebirge]]                  | region     | Süden               |
+| [[04 - Welt/Orte/Schauplätze/Nebelacker\|Nebelacker]]                     | landmark   | Westen              |
+| [[04 - Welt/Orte/Schauplätze/Nira Skibbet\|Nira Skibbet]]                 | water      | Westen              |
+| [[04 - Welt/Orte/Schauplätze/Nordau\|Nordau]]                             | water      | Zentral             |
+| [[04 - Welt/Orte/Schauplätze/Nordhavn\|Nordhavn]]                         | landmark   | Westen              |
+| [[04 - Welt/Orte/Schauplätze/Nordturm\|Nordturm]]                         | fortress   | Norden              |
+| [[04 - Welt/Orte/Siedlungen/Norre Nebel\|Norre Nebel]]                    | settlement | Nordwest            |
+| [[04 - Welt/Orte/Schauplätze/Nygaard Außenposten\|Nygaard Außenposten]]   | fortress   | Norden              |
+| [[04 - Welt/Orte/Schauplätze/Purpurner Krug\|Purpurner Krug]]             | landmark   | Westen              |
+| [[04 - Welt/Orte/Schauplätze/Salzmine\|Salzmine]]                         | landmark   | Salzwüste           |
+| [[04 - Welt/Orte/Regionen/Salzwüste\|Salzwüste]]                          | region     | Südost              |
+| [[04 - Welt/Orte/Schauplätze/Schattenfels\|Schattenfels]]                 | landmark   | Westen              |
+| [[04 - Welt/Orte/Schauplätze/Scherbenviertel\|Scherbenviertel]]           | landmark   | Westen              |
+| [[04 - Welt/Orte/Schauplätze/Sgovaske Formation\|Sgovaske Formation]]     | landmark   | Norden              |
+| [[04 - Welt/Orte/Siedlungen/Solentia\|Solentia]]                          | region     | Außerhalb Noryndals |
+| [[04 - Welt/Orte/Schauplätze/Sonnentheater\|Sonnentheater]]               | landmark   | Westen              |
+| [[04 - Welt/Orte/Regionen/Spieseltal\|Spieseltal]]                        | region     | Süden               |
+| [[04 - Welt/Orte/Regionen/Steinerne Stelen\|Steinerne Stelen]]            | region     | Osten               |
+| [[04 - Welt/Orte/Schauplätze/Sternenfall\|Sternenfall]]                   | fortress   | Steinerne Stelen    |
+| [[04 - Welt/Orte/Schauplätze/Sudeturm\|Sudeturm]]                         | fortress   | Süden               |
+| [[04 - Welt/Orte/Schauplätze/Südhavn\|Südhavn]]                           | landmark   | Westen              |
+| [[04 - Welt/Orte/Schauplätze/Tuscofall Heiligtum\|Tuscofall Heiligtum]]   | ruin       | Steinerne Stelen    |
+| [[04 - Welt/Orte/Schauplätze/Verbotener Berg\|Verbotener Berg]]           | mountain   | Graues Gehölz       |
+| [[04 - Welt/Orte/Schauplätze/Verzaubertes Glück\|Verzaubertes Glück]]     | landmark   | Westen              |
+| [[04 - Welt/Orte/Siedlungen/Vestangen\|Vestangen]]                        | settlement | Steinerne Stelen    |
+| [[04 - Welt/Orte/Schauplätze/Vestturm\|Vestturm]]                         | fortress   | Westen              |
 
 { .block-language-dataview}
 
 ## Fraktionen
 
-| Fraktion                                                       | Haltung       | Reichweite |
-| -------------------------------------------------------------- | ------------- | ---------- |
-| [[04 - Welt/Fraktionen/Druidenzirkel\|Druidenzirkel]]       | außerhalb     | regional   |
-| [[04 - Welt/Fraktionen/Eisige Faust\|Eisige Faust]]         | rith'kar-treu | regional   |
-| [[04 - Welt/Fraktionen/Familie Rith'kar\|Familie Rith'kar]] | herrschend    | regional   |
-| [[04 - Welt/Fraktionen/Streicher\|Streicher]]               | ambivalent    | regional   |
-| [[04 - Welt/Fraktionen/Tuchmacher\|Tuchmacher]]             | kriminell     | regional   |
+| Fraktion                                                                                 | Haltung        | Reichweite        |
+| ---------------------------------------------------------------------------------------- | -------------- | ----------------- |
+| [[04 - Welt/Fraktionen/Druidenzirkel\|Druidenzirkel]]                                 | außerhalb      | regional          |
+| [[04 - Welt/Fraktionen/Eisige Faust\|Eisige Faust]]                                   | rith'kar-treu  | regional          |
+| [[04 - Welt/Fraktionen/Familie Rith'kar\|Familie Rith'kar]]                           | herrschend     | regional          |
+| [[04 - Welt/Fraktionen/Geschwisterschaft des Sommers\|Geschwisterschaft des Sommers]] | widerständisch | stadtübergreifend |
+| [[04 - Welt/Fraktionen/Streicher\|Streicher]]                                         | ambivalent     | regional          |
+| [[04 - Welt/Fraktionen/Tuchmacher\|Tuchmacher]]                                       | kriminell      | regional          |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-party/yuki/","tags":["pc","party","katari","jägerin","späherin"],"dg-note-properties":{"type":"pc","class":null,"subclass":null,"ancestry":"Katari","community":null,"domains":[],"level":1,"hope":2,"fear":0,"status":"active","tags":["pc","party","katari","jägerin","späherin"]}}
+{"dg-publish":true,"permalink":"/02-party/yuki/","tags":["pc","party","katari","jägerin","späherin"],"dg-note-properties":{"type":"pc","class":"Ranger","subclass":"Beastbound","ancestry":"Katari","community":"Wildborne","domains":["Bone","Sage"],"level":1,"hope":2,"fear":0,"status":"active","tags":["pc","party","katari","jägerin","späherin"]}}
 ---
 
 
@@ -27,13 +27,13 @@ Yuki ist eine **Jägerin und Späherin**, die der Party beigetreten ist, weil si
 - **Loyal über ihre Bindungen.** Falke und Party: zwei Bindungen, die sie ernst nimmt.
 
 ## Class & Domains
-- **Class:** *(noch zu klären — Begleit-Falke + Jägerin/Späherin lassen Ranger naheliegen, ist aber offen)*
-- **Subclass:** *(noch zu klären)*
-- **Domains:** *(noch zu klären)*
+- **Class:** **Ranger**
+- **Subclass:** **Beastbound**
+- **Domains:** **Bone** + **Sage**
 
 ## Ancestry & Community
 - **Ancestry:** **Katari** — Schneeleoparden-Variante.
-- **Community:** *(noch zu klären — Wildborne/Ridgeborne/Wayfinder lägen alle nahe für eine Jägerin und Reisende; offen, bis Yukis Herkunft konkretisiert ist)*
+- **Community:** **Wildborne**
 
 ## Stats
 | Agility | Strength | Finesse | Instinct | Presence | Knowledge |
@@ -51,7 +51,7 @@ Yuki ist eine **Jägerin und Späherin**, die der Party beigetreten ist, weil si
 *(Katari — siehe Daggerheart-Material)*
 
 ## Klassen-Features
-*(offen, bis Class steht)*
+*(siehe Daggerheart-Klassen-Material — Ranger, Beastbound)*
 
 ## Equipment
 - **Armbrust** — Hauptwaffe, sichtbar getragen, Köcher am Gürtel.
@@ -59,10 +59,17 @@ Yuki ist eine **Jägerin und Späherin**, die der Party beigetreten ist, weil si
 - **Weißer Falke** als Begleiter — siehe oben.
 - *(weiteres Equipment offen)*
 
-## Begleiter: Der weiße Falke
+## Begleiter: Der weiße Falke — Tao
+- Heißt **Tao**.
 - *„Immer einen Pfiff entfernt."*
+- **[[05 - Sessions/Session 04 - Dem Winter zum Trotz\|Session 4]]:** Flog in der Keller-Arena zur Bar und **trank Percys Drink**.
 - Erinnert die Party an Percys Schnee-Adler-Erbe und seinen [[01 - Mein Charakter/Lord Percival Ashwood\|aëthon-haften Hintergrund]] — ein erster, offensichtlicher Anknüpfungspunkt zwischen Yuki und Percy.
-- *(Name, Geschichte und Mechanik offen — falls Ranger/Beastbound, regelseitig dort verankern)*
+- Regelseitig: **Beastbound**-Companion (Ranger-Subclass). *(Geschichte offen.)*
+
+## Bisher in Sessions
+- **[[05 - Sessions/Session 04 - Dem Winter zum Trotz\|Session 4]]:** Versuchte am Hafen (erfolglos?) mit [[03 - NPCs/Marike Langersverd\|Marike Langersverd]] anzubändeln. Untersuchte mit [[02 - Party/Raksha\|Raksha]] die Leichen und **schnitt das [[07 - Items/Masken-Wappen\|Masken-Wappen]]** aus der Fischerkleidung. Fand per Umfrage den Laden [[04 - Welt/Orte/Schauplätze/Dem Winter zum Trotz\|Dem Winter zum Trotz]]. Sah im Keller die **Käfige** (Ratte, Wolf, Skorpion). Redete [[03 - NPCs/Hendrik Vaul\|Hendrik Vaul]] gut zu — worauf er die Hintermänner und [[03 - NPCs/Skreev\|Skreev]] preisgab. Sammelte beim Long Rest grüne Pflanzen.
+- **[[05 - Sessions/Session 05 - Das Sonnentheater\|Session 5]]:** Im [[04 - Welt/Orte/Schauplätze/Sonnentheater\|Sonnentheater]] dabei — Harandil, Battlebox, Verfolgungsjagd, Gespräch durch den Saal.
+- **[[05 - Sessions/Session 06 - Geschwisterschaft des Sommers\|Session 6]]:** Nicht dabei.
 
 ## Backstory & Verbindungen
 - Verbindungen zur Party: siehe [[02 - Party/Connections\|Connections]].

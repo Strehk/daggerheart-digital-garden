@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-welt/orte/schauplaetze/sternenfall/","tags":["festung","sternenfall","rith'kar"],"dg-note-properties":{"type":"location","location_type":"fortress","region":"Steinerne Stelen","factions":["[[04 - Welt/Fraktionen/Familie Rith'kar\|Familie Rith'kar]]","[[Eisige Faust]]"],"status":"active","tags":["festung","sternenfall","rith'kar"]}}
+{"dg-publish":true,"permalink":"/04-welt/orte/schauplaetze/sternenfall/","tags":["festung","sternenfall","rith'kar"],"dg-note-properties":{"type":"location","location_type":"fortress","region":"Steinerne Stelen","factions":["[[04 - Welt/Fraktionen/Familie Rith'kar]]","[[04 - Welt/Fraktionen/Eisige Faust]]"],"status":"active","tags":["festung","sternenfall","rith'kar"]}}
 ---
 
 

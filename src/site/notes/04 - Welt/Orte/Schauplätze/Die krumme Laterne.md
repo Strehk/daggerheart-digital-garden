@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-welt/orte/schauplaetze/die-krumme-laterne/","tags":["ort","kalthavn","gasthaus"],"dg-note-properties":{"type":"location","location_type":"landmark","region":"Westen","factions":[],"status":"active","first_seen":"[[Session 02 - Die krumme Laterne]]","tags":["ort","kalthavn","gasthaus"]}}
+{"dg-publish":true,"permalink":"/04-welt/orte/schauplaetze/die-krumme-laterne/","tags":["ort","kalthavn","gasthaus"],"dg-note-properties":{"type":"location","location_type":"landmark","region":"Westen","factions":[],"status":"active","first_seen":"[[05 - Sessions/Session 02 - Die krumme Laterne]]","tags":["ort","kalthavn","gasthaus"]}}
 ---
 
 

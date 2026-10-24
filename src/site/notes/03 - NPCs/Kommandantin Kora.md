@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs/kommandantin-kora/","tags":["npc","streicher","kalthavn"],"dg-note-properties":{"type":"npc","role":"neutral","ancestry":null,"community":"Seaborne","location":"[[04 - Welt/Orte/Siedlungen/Kalthavn\|Kalthavn]]","affiliations":["[[04 - Welt/Fraktionen/Streicher\|Streicher]]"],"status":"active","first_seen":"[[Session 01 - Morgenlicht über Kalthavn]]","tags":["npc","streicher","kalthavn"]}}
+{"dg-publish":true,"permalink":"/03-np-cs/kommandantin-kora/","tags":["npc","streicher","kalthavn"],"dg-note-properties":{"type":"npc","role":"neutral","ancestry":null,"community":"Seaborne","location":"[[04 - Welt/Orte/Siedlungen/Kalthavn]]","affiliations":["[[04 - Welt/Fraktionen/Streicher]]"],"status":"active","first_seen":"[[05 - Sessions/Session 01 - Morgenlicht über Kalthavn]]","tags":["npc","streicher","kalthavn"]}}
 ---
 
 

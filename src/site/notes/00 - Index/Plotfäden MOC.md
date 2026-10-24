@@ -5,9 +5,10 @@
 
 ## Übergreifende Plotfäden (Kampagne)
 
-| Faden                                                                                            | Priorität | Erstmals                                                                                            |
-| ------------------------------------------------------------------------------------------------ | --------- | --------------------------------------------------------------------------------------------------- |
-| [[06 - Plotfäden/Wer hat die Bestien eingeschmuggelt?\|Wer hat die Bestien eingeschmuggelt?]] | 1         | [[05 - Sessions/Session 01 - Morgenlicht über Kalthavn\|Session 01 - Morgenlicht über Kalthavn]] |
+| Faden                                                                                                          | Priorität | Erstmals                                                                                            |
+| -------------------------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------------------------------- |
+| [[06 - Plotfäden/Wer hat die Bestien eingeschmuggelt?\|Wer hat die Bestien eingeschmuggelt?]]               | 1         | [[05 - Sessions/Session 01 - Morgenlicht über Kalthavn\|Session 01 - Morgenlicht über Kalthavn]] |
+| [[06 - Plotfäden/Sonnenmünzen und Lady Sindaris Gemeinschaft\|Sonnenmünzen und Lady Sindaris Gemeinschaft]] | 2         | [[05 - Sessions/Session 02 - Die krumme Laterne\|Session 02 - Die krumme Laterne]]               |
 
 { .block-language-dataview}
 
