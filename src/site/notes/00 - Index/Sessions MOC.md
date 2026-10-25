@@ -13,12 +13,13 @@
 | 4   | July 16, 2026      | [[05 - Sessions/Session 04 - Dem Winter zum Trotz\|Session 04 - Dem Winter zum Trotz]]                   | \-       |
 | 5   | August 06, 2026    | [[05 - Sessions/Session 05 - Das Sonnentheater\|Session 05 - Das Sonnentheater]]                         | \-       |
 | 6   | September 17, 2026 | [[05 - Sessions/Session 06 - Geschwisterschaft des Sommers\|Session 06 - Geschwisterschaft des Sommers]] | \-       |
+| 7   | October 24, 2026   | [[05 - Sessions/Session 07 - Vargoths Höhle\|Session 07 - Vargoths Höhle]]                               | \-       |
 
 { .block-language-dataview}
 
 ## Letzte Session
 
-- [[05 - Sessions/Session 06 - Geschwisterschaft des Sommers\|Session 06 - Geschwisterschaft des Sommers]]
+- [[05 - Sessions/Session 07 - Vargoths Höhle\|Session 07 - Vargoths Höhle]]
 
 { .block-language-dataview}
 
@@ -26,6 +27,7 @@
 
 > Wenn du in Sessions die Sektion `## Offene Fragen` mit dem Tag `#offene-frage` versiehst, erscheinen sie hier.
 
+- [[05 - Sessions/Session 07 - Vargoths Höhle\|Session 07 - Vargoths Höhle]]
 - [[05 - Sessions/Session 06 - Geschwisterschaft des Sommers\|Session 06 - Geschwisterschaft des Sommers]]
 - [[05 - Sessions/Session 05 - Das Sonnentheater\|Session 05 - Das Sonnentheater]]
 - [[05 - Sessions/Session 04 - Dem Winter zum Trotz\|Session 04 - Dem Winter zum Trotz]]

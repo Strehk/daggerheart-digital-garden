@@ -12,7 +12,7 @@
 | [[03 - NPCs/Lady Elara Vance\|Lady Elara Vance]]             | ally    | \-                                                  | [[04 - Welt/Orte/Schauplätze/Sternenfall\|Sternenfall]]                   | unknown |
 | [[03 - NPCs/Lillia Vess Rith'kar\|Lillia Vess Rith'kar]]     | enemy   | \-                                                  | [[04 - Welt/Orte/Schauplätze/Sternenfall\|Sternenfall]]                   | active  |
 | [[03 - NPCs/Skreev\|Skreev]]                                 | enemy   | Goblin                                              | [[04 - Welt/Orte/Siedlungen/Kalthavn\|Kalthavn]]                          | active  |
-| [[03 - NPCs/Vargoth\|Vargoth]]                               | enemy   | unbekannt (Eiswesen)                                | [[04 - Welt/Orte/Schauplätze/Dem Winter zum Trotz\|Dem Winter zum Trotz]] | active  |
+| [[03 - NPCs/Vargoth\|Vargoth]]                               | enemy   | unbekannt (Eiswesen)                                | [[04 - Welt/Orte/Schauplätze/Dem Winter zum Trotz\|Dem Winter zum Trotz]] | dead    |
 | [[03 - NPCs/Aramir Rith'kar\|Aramir Rith'kar]]               | neutral | \-                                                  | [[04 - Welt/Orte/Schauplätze/Burg Graustein\|Burg Graustein]]             | active  |
 | [[03 - NPCs/Elia Sindari\|Elia Sindari]]                     | neutral | Halbelf                                             | [[04 - Welt/Orte/Schauplätze/Graholm\|Graholm]]                           | active  |
 | [[03 - NPCs/Harandil Blitz\|Harandil Blitz]]                 | neutral | Ork                                                 | [[04 - Welt/Orte/Schauplätze/Sonnentheater\|Sonnentheater]]               | active  |

@@ -29,12 +29,14 @@
 ## Aktuelle Lage
 - **Hafen-Stillstand:** Auf Regierungsbeschluss darf **mindestens 2 Monate** kein Schiff mehr auslaufen, das **nicht ausschließlich der Fischerei** dient (so [[03 - NPCs/Hauptmann Sven Svenson\|Hauptmann Sven Svenson]] / [[03 - NPCs/Kommandantin Kora\|Kommandantin Kora]]). Grund unbekannt. (#offene-frage)
 - **Schmuggel-Verstrickung:** Die ausgebrochenen Bestien-Kisten kamen über einen **Kontakt im schwarzen Mantel**, vermittelt **aus der [[04 - Welt/Orte/Schauplätze/Burg Graustein\|Burg Graustein]]** — siehe [[06 - Plotfäden/Wer hat die Bestien eingeschmuggelt?\|Wer hat die Bestien eingeschmuggelt?]].
+- **Bestien-Lieferanten:** Laut [[07 - Items/Vargoths Unterlagen\|Vargoths Unterlagen]] aus der Arena-Höhle unter [[04 - Welt/Orte/Schauplätze/Dem Winter zum Trotz\|Dem Winter zum Trotz]] **bringen die Streicher die Bestien** für die illegalen Kämpfe ([[05 - Sessions/Session 07 - Vargoths Höhle\|Session 7]]).
 - **Im Visier der [[04 - Welt/Fraktionen/Geschwisterschaft des Sommers\|Geschwisterschaft des Sommers]]:** [[03 - NPCs/Elia Sindari\|Lady Sindari]] nennt die Fracht „**gefährliche Schmuggelware der Streicher**" (die [[07 - Items/Bernstein-Laterne\|Laternen]] für die Rith'kar-Expedition) und ließ die Kiste am Hafen überfallen ([[05 - Sessions/Session 06 - Geschwisterschaft des Sommers\|Session 6]]).
 
 ## Mein Verhältnis
 - **[[05 - Sessions/Session 01 - Morgenlicht über Kalthavn\|Session 1]]:** Wir haben Fischer getötet, die eine **Streicher-Kiste** stehlen wollten, und beim Bestien-Ausbruch am Kai eingegriffen.
 - **[[05 - Sessions/Session 02 - Die krumme Laterne\|Session 2]]:** Streicher-Party — Aussagen von Kora („Blindfracht") und Arrik (Burg-Graustein-Kontakt). Wir halten ihren Laternen-Beutel.
+- **[[05 - Sessions/Session 07 - Vargoths Höhle\|Session 7]]:** Vargoths Unterlagen nennen die Streicher als Lieferanten der Bestien — die „Blindfracht" war wohl nicht so blind.
 
 > [!note] Vermutung
 > - Wieso dürfen keine Schiffe auslaufen — eigene Entscheidung der Streicher, Anordnung des Statthalters [[03 - NPCs/Aramir Rith'kar\|Aramir Rith'kar]] / der [[04 - Welt/Orte/Schauplätze/Burg Graustein\|Burg Graustein]], oder eine Bedrohung von See?
-> - Ist „Blindfracht" eine Schutzbehauptung — wussten Streicher-Führungsleute sehr wohl von den Bestien und Laternen?
+> - Ist „Blindfracht" eine Schutzbehauptung — wussten Streicher-Führungsleute sehr wohl von den Bestien und Laternen? *([[05 - Sessions/Session 07 - Vargoths Höhle\|Session 7]]: Vargoths Unterlagen sagen, die Streicher bringen die Bestien — spricht für Schutzbehauptung, zumindest bei einigen.)*

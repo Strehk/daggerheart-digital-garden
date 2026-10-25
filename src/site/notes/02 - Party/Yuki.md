@@ -4,6 +4,7 @@
 
 
 # Yuki
+![Daggerheart - 2026-10-25 11.46.58.jpg](/img/user/Daggerheart%20-%202026-10-25%2011.46.58.jpg)
 
 > *„Ich kenne Pfade, die uns sicher durch Schneestürme führen, und ich kenne Worte, die uns an jedem Lagerfeuer willkommen heißen."*
 > Schneeleoparden-Katari, Jägerin und Späherin — mit einem weißen Falken, der nur einen Pfiff entfernt ist.
@@ -63,6 +64,7 @@ Yuki ist eine **Jägerin und Späherin**, die der Party beigetreten ist, weil si
 - Heißt **Tao**.
 - *„Immer einen Pfiff entfernt."*
 - **[[05 - Sessions/Session 04 - Dem Winter zum Trotz\|Session 4]]:** Flog in der Keller-Arena zur Bar und **trank Percys Drink**.
+- **[[05 - Sessions/Session 07 - Vargoths Höhle\|Session 7]]:** Spähte durch die Fenster von [[04 - Welt/Orte/Schauplätze/Dem Winter zum Trotz\|Dem Winter zum Trotz]], bevor wir durch die Hintertür gingen.
 - Erinnert die Party an Percys Schnee-Adler-Erbe und seinen [[01 - Mein Charakter/Lord Percival Ashwood\|aëthon-haften Hintergrund]] — ein erster, offensichtlicher Anknüpfungspunkt zwischen Yuki und Percy.
 - Regelseitig: **Beastbound**-Companion (Ranger-Subclass). *(Geschichte offen.)*
 
@@ -70,6 +72,7 @@ Yuki ist eine **Jägerin und Späherin**, die der Party beigetreten ist, weil si
 - **[[05 - Sessions/Session 04 - Dem Winter zum Trotz\|Session 4]]:** Versuchte am Hafen (erfolglos?) mit [[03 - NPCs/Marike Langersverd\|Marike Langersverd]] anzubändeln. Untersuchte mit [[02 - Party/Raksha\|Raksha]] die Leichen und **schnitt das [[07 - Items/Masken-Wappen\|Masken-Wappen]]** aus der Fischerkleidung. Fand per Umfrage den Laden [[04 - Welt/Orte/Schauplätze/Dem Winter zum Trotz\|Dem Winter zum Trotz]]. Sah im Keller die **Käfige** (Ratte, Wolf, Skorpion). Redete [[03 - NPCs/Hendrik Vaul\|Hendrik Vaul]] gut zu — worauf er die Hintermänner und [[03 - NPCs/Skreev\|Skreev]] preisgab. Sammelte beim Long Rest grüne Pflanzen.
 - **[[05 - Sessions/Session 05 - Das Sonnentheater\|Session 5]]:** Im [[04 - Welt/Orte/Schauplätze/Sonnentheater\|Sonnentheater]] dabei — Harandil, Battlebox, Verfolgungsjagd, Gespräch durch den Saal.
 - **[[05 - Sessions/Session 06 - Geschwisterschaft des Sommers\|Session 6]]:** Nicht dabei.
+- **[[05 - Sessions/Session 07 - Vargoths Höhle\|Session 7]]:** Fand mit Leom die **Hintertür** von [[04 - Welt/Orte/Schauplätze/Dem Winter zum Trotz\|Dem Winter zum Trotz]]; Tao spähte durchs Fenster. Schlich nach oben, öffnete die Tür zu [[03 - NPCs/Hendrik Vaul\|Hendrik Vaul]]s Versteck — **Armbrustbolzen knapp daneben** — und nahm ihm die Beichte ab. Im Käfig-Kampf: **entangled den Skorpion** und traf dessen **Schwachstelle**; steckte den [[07 - Items/Skorpionstachel\|Skorpionstachel]] ein. Löste mit Raksha und Leom das **Edelstein-Rätsel**. Bekam eine [[07 - Items/Bernstein-Laterne\|Bernsteinlichtlampe]] für den Tunnel. Im Kampf gegen [[03 - NPCs/Vargoth\|Vargoth]] zusammen mit Leom für viel Schaden verantwortlich.
 
 ## Backstory & Verbindungen
 - Verbindungen zur Party: siehe [[02 - Party/Connections\|Connections]].

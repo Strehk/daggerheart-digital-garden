@@ -29,9 +29,9 @@
 
 ## Letzte Session
 
-| Session                                                                                                     | Datum              |
-| ----------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[05 - Sessions/Session 06 - Geschwisterschaft des Sommers\|Session 06 - Geschwisterschaft des Sommers]] | September 17, 2026 |
+| Session                                                                       | Datum            |
+| ----------------------------------------------------------------------------- | ---------------- |
+| [[05 - Sessions/Session 07 - Vargoths Höhle\|Session 07 - Vargoths Höhle]] | October 24, 2026 |
 
 { .block-language-dataview}
 

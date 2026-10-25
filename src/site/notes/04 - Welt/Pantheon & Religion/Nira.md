@@ -20,4 +20,7 @@
 - Die größte Bibliothek im Tal liegt in [[04 - Welt/Orte/Siedlungen/Vestangen\|Vestangen]] — hier sammeln sich oft Niras Gläubige.
 
 ## Auftauchen in der Kampagne
-*(Backlinks zu Sessions / NPCs erscheinen unten.)*
+- [[01 - Mein Charakter/Lord Percival Ashwood\|Percy]] ist Niras Seraph (Aspekte Frieden und Geborgenheit).
+- **[[05 - Sessions/Session 07 - Vargoths Höhle\|Session 7]]:** [[02 - Party/Raksha\|Raksha]] ging im Kampf gegen [[03 - NPCs/Vargoth\|Vargoth]] zu Boden und **begegnete Nira** (Death Move). Was er gesehen hat, ist offen — Percy sollte ihn fragen.
+
+*(Weitere Backlinks zu Sessions / NPCs erscheinen unten.)*

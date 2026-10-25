@@ -52,6 +52,7 @@ _(Konzept, Erscheinung, Persönlichkeit — stub, ergänzen)_
 
 - **[[05 - Sessions/Session 05 - Das Sonnentheater\|Session 5]]:** Nicht dabei — noch allein bei Lady Sindari.
 - **[[05 - Sessions/Session 06 - Geschwisterschaft des Sommers\|Session 6]]:** Mit [[03 - NPCs/Elia Sindari\|Lady Sindari]]: Die Gemeinschaft heißt **[[04 - Welt/Fraktionen/Geschwisterschaft des Sommers\|Geschwisterschaft des Sommers]]**; Raksha will eine **Revolution von unten**, das **Ende der Rith'kar-Herrschaft** und den **Frühling einleiten**; ist **Bote aus [[04 - Welt/Orte/Siedlungen/Vestangen\|Vestangen]]**. Die beiden reden über [[03 - NPCs/Aramir Rith'kar\|Aramir Rith'kar]]; Sindari wirft ihm vor, **unvorsichtig** zu sein. Münzen = **Erkennungsmerkmal und Tracker**. Geht mit Sindari ins [[04 - Welt/Orte/Schauplätze/Sonnentheater\|Sonnentheater]], „um Schlimmeres zu verhindern".
+- **[[05 - Sessions/Session 07 - Vargoths Höhle\|Session 7]]:** Schickte [[03 - NPCs/Hendrik Vaul\|Hendrik Vaul]] auf einen zweistündigen Spaziergang. Im Käfig-Kampf **schlug er dem Skorpion fast den Stachel ab** und **erledigte ihn**. Verteilte die [[07 - Items/Bernstein-Laterne\|Bernsteinlichtlampen]] an die anderen. Gegen [[03 - NPCs/Vargoth\|Vargoth]] **zu Boden gegangen — begegnete [[04 - Welt/Pantheon & Religion/Nira\|Nira]]** (Death Move); von Leom mit Health Potion zurückgeholt. Bekam von Leom den Vial of Dark Smoke.
 
 ## Backstory & Verbindungen
 - Verbindungen zur Party: siehe [[02 - Party/Connections\|Connections]].

@@ -19,6 +19,9 @@
 - Stammt aus den Kellern Sternenfalls.
 - Percy hat es beim Aufbruch *„zur ordnungsgemäßen Servierung"* mitgenommen — was nach Daggerheart-Maßstäben locker als Diebstahl aus Hofbesitz durchgeht.
 
+## Einsätze
+- **[[05 - Sessions/Session 07 - Vargoths Höhle\|Session 7]]:** **[[03 - NPCs/Vargoth\|Vargoth]]** wurde mit diesem Tablett (und Arions Dolch) erlegt. Die Kratzer auf der Unterseite haben jetzt eine Geschichte.
+
 ## Aktueller Träger
 - Percy. Immer dabei.
 - *„Wer keinen Tee trinkt, ist nicht erschöpft genug."*

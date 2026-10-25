@@ -18,6 +18,7 @@ _(stub — noch nicht persönlich begegnet)_
 ## Was wir wissen
 - Kontaktperson zwischen [[03 - NPCs/Hendrik Vaul\|Hendrik Vaul]] und „den Hintermännern", die seit **zwei Jahren** Tiere für die Arena liefern.
 - Sein Name ist [[02 - Party/Arion\|Arion]] **im Zusammenhang mit den [[04 - Welt/Fraktionen/Tuchmacher\|Tuchmacher]]n** bekannt.
+- **[[05 - Sessions/Session 07 - Vargoths Höhle\|Session 7]]:** War laut [[03 - NPCs/Vargoth\|Vargoth]] **zwischen unserem Vormittags- und Nachmittagsbesuch** in der Arena und hat ihm gesagt, dass er **niemanden engagiert** hat — damit war Percys Barkeeper-Tarnung aufgeflogen. Skreev weiß also von uns.
 
 ## Beziehungen
 - **Verbündete / Bekannte:** „die Hintermänner"
@@ -33,4 +34,4 @@ _(stub — noch nicht persönlich begegnet)_
 > - Wer sind seine **Hintermänner** — die Tuchmacher-Führung, oder jemand auf der [[04 - Welt/Orte/Schauplätze/Burg Graustein\|Burg Graustein]], der die Tuchmacher nur benutzt?
 
 ## Notizen
-- Nur durch [[03 - NPCs/Hendrik Vaul\|Hendrik Vaul]] beschrieben ([[05 - Sessions/Session 04 - Dem Winter zum Trotz\|Session 4]]).
+- Nur durch [[03 - NPCs/Hendrik Vaul\|Hendrik Vaul]] beschrieben ([[05 - Sessions/Session 04 - Dem Winter zum Trotz\|Session 4]]); in Session 7 nur indirekt über Vargoth. Leoms Notizen schreiben „Screer".

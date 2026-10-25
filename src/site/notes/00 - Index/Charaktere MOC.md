@@ -31,7 +31,7 @@
 | ----------------------------------------------------------- | -------------------- | ------ |
 | [[03 - NPCs/Lillia Vess Rith'kar\|Lillia Vess Rith'kar]] | \-                   | active |
 | [[03 - NPCs/Skreev\|Skreev]]                             | Goblin               | active |
-| [[03 - NPCs/Vargoth\|Vargoth]]                           | unbekannt (Eiswesen) | active |
+| [[03 - NPCs/Vargoth\|Vargoth]]                           | unbekannt (Eiswesen) | dead   |
 
 { .block-language-dataview}
 
@@ -61,5 +61,6 @@
 
 ## Verstorben / Inaktiv
 
+- [[03 - NPCs/Vargoth\|Vargoth]]
 
 { .block-language-dataview}

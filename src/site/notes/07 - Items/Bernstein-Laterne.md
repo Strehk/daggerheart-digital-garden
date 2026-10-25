@@ -16,6 +16,7 @@
 - Gibt **Licht und Wärme** ab, ohne Flamme oder offensichtliche Energiequelle.
 - **Laut [[03 - NPCs/Amelie\|Amelie]]** ([[05 - Sessions/Session 04 - Dem Winter zum Trotz\|Session 4]]): „**Bernsteinlichtlampen**" — **relativ wertvoll**, Standard-Ausrüstung **teurer wissenschaftlicher Exkursionen**. Sie **reduzieren schädliche Umwelteinflüsse und -gefahren**, die sich damit **länger aushalten** lassen; **eine Person pro Lampe** genügt für den Effekt.
 - In den **südlichen Ländern** teuer, aber **erwerblich**; Herstellung unbekannt.
+- **Praxistest ([[05 - Sessions/Session 07 - Vargoths Höhle\|Session 7]]):** Im eiskalten, nebligen **Tunnel unter [[04 - Welt/Orte/Schauplätze/Dem Winter zum Trotz\|Dem Winter zum Trotz]]** nahmen wir ohne Lampe Kälteschaden; mit je einer Lampe **außen am Gürtel** war es erträglich. Amelies Beschreibung stimmt.
 - **Laut [[03 - NPCs/Elia Sindari\|Lady Sindari]]** ([[05 - Sessions/Session 06 - Geschwisterschaft des Sommers\|Session 6]]): Die [[04 - Welt/Fraktionen/Familie Rith'kar\|Rith'kar]] planen eine **Expedition in den Norden des Tals** und **brauchen die Laternen als Ausrüstung**. Die [[04 - Welt/Fraktionen/Geschwisterschaft des Sommers\|Geschwisterschaft des Sommers]] will die Expedition **erschweren** — deshalb der Überfall am Hafen.
 
 ## Herkunft & Geschichte
@@ -24,7 +25,7 @@
 - **[[02 - Party/Raksha\|Raksha]]** fand **6 weitere** in der Kiste im Fischerboot → **mindestens 9** insgesamt.
 
 ## Aktueller Träger / Aufbewahrungsort
-- Bei der Party ([[02 - Party/Raksha\|Raksha]] hat den Beutel gesichert).
+- Bei der Party ([[02 - Party/Raksha\|Raksha]] hat den Beutel gesichert). Seit [[05 - Sessions/Session 07 - Vargoths Höhle\|Session 7]] tragen **[[01 - Mein Charakter/Lord Percival Ashwood\|Percy]], [[02 - Party/Arion\|Arion]], [[02 - Party/Yuki\|Yuki]] und [[02 - Party/Leowam Warmwasser\|Leom]] je eine** am Gürtel; der Rest beim Beutel.
 
 ## Besonderheiten / Geheimnisse
 > [!note] Vermutung

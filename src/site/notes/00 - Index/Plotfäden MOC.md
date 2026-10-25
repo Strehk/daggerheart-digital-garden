@@ -24,8 +24,9 @@
 
 ## Abgeschlossen
 
-| Faden | Aufgelöst in |
-| ----- | ------------ |
+| Faden                                                                                                          | Aufgelöst in                                                                  |
+| -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [[06 - Plotfäden/Die Bestienarena unter Dem Winter zum Trotz\|Die Bestienarena unter Dem Winter zum Trotz]] | [[05 - Sessions/Session 07 - Vargoths Höhle\|Session 07 - Vargoths Höhle]] |
 
 { .block-language-dataview}
 
